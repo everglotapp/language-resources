@@ -1,1 +1,96 @@
-[{"question":"Wärst du lieber ständig von arroganten Menschen umgeben oder von undankbaren?","answers":["Von arroganten Menschen umgeben","Von undankbaren Menschen umgeben"]},{"question":"Würdest du lieber jede Sprache auf dieser Welt sprechen oder eher mit allen Tieren sprechen können?","answers":["Jede Sprache auf dieser Welt sprechen","Mit allen Tieren sprechen können"]},{"question":"Möchtest du lieber, dass du alles, was du berührst, essen musst oder dass sich alles, was du berührst (inklusive Essen), in Gold verwandelt?","answers":["Alles essen müssen","Alles in Gold verwandeln"]},{"question":"Wärest du lieber eine Katze mit menschlicher Intelligenz oder ein Mensch mit der Intelligenz einer Katze?","answers":["Katze mit menschlicher Intelligenz","Mensch mit der Intelligenz einer Katze"]},{"question":"Möchtest du lieber die Fähigkeit haben, die Zukunft vorauszusehen und keine Erinnerung an die Vergangenheit oder eine perfekte Erinnerung an die Vergangenheit und unfähig neue Erinnerungen zu erzeugen?","answers":["Die Zukunft vorauszusehen","Eine perfekte Erinnerung an die Vergangenheit"]},{"question":"Möchtest du lieber nie wieder Emojis nutzen können oder nie wieder ein Selfie machen können?","answers":["Nie wieder Emojis nutzen","Nie wieder ein Selfie machen"]},{"question":"Möchtest du lieber jede Sprache fließend sprechen können or eher in jedes Land auf der Erde reisen können?","answers":["Jede Sprache fließend sprechen können","In jedes Land auf der Erde reisen können"]},{"question":"Möchtest du lieber, dass sich deine Füße in Rollschuhe verwandeln oder dass sich deine Hände in Gabeln verwandeln?","answers":["Füße verwandeln sich in Rollschuhe","Hände verwandeln sich in Gabeln"]},{"question":"Würdest du lieber auf WLAN verzichten oder darauf, dich außerhalb deiner Stadt bewegen zu können?","answers":["Auf WLAN verzichten","Nie wieder außerhalb meiner Stadt bewegen"]},{"question":"Wärest du lieber reich und hässlich oder schön und arm?","answers":["Reich und hässlich","Schön und arm"]},{"question":"Wärest du lieber intelligent und hässlich oder schön und dumm?","answers":["Intelligent und hässlich","Schön und dumm"]},{"question":"Möchtest du lieber alle Ampeln nach Belieben umschalten können oder jede Werbung im Fernsehen und Web überspringen können?","answers":["Alle Ampeln nach Belieben umschalten können","Jede Werbung überspringen können"]},{"question":"Würdest du lieber ein friedliches aber langweiliges Leben führen oder ein aufregendes aber gefährliches?","answers":["Ein friedliches aber langweiliges Leben","Ein aufregendes aber gefährliches Leben"]},{"question":"Würdest du lieber ein langes unbedeutendes Leben führen oder eher früh sterben, aber aufgrund einer bemerkenswerten Leistung in die Geschichte eingehen?","answers":["Ein langes unbedeutendes Leben führen","Früh sterben, aber in die Geschichte eingehen"]},{"question":"Würdest du lieber dein Leben nochmals leben ohne irgendetwas ändern zu können oder eher die Zukunft voraussehen ohne irgendetwas ändern zu können?","answers":["Mein Leben nochmals leben","Die Zukunft voraussehen"]},{"question":"Würdest du lieber auf die Fähigkeit zu schmecken oder eher auf die Fähigkeit zu sprechen verzichten?","answers":["Die Fähigkeit zu schmecken","Die Fähigkeit zu sprechen"]}]
+[
+  {
+    "question": "Wärst du lieber ständig von arroganten Menschen umgeben oder von undankbaren?",
+    "answers": [
+      "Von arroganten Menschen umgeben",
+      "Von undankbaren Menschen umgeben"
+    ]
+  },
+  {
+    "question": "Würdest du lieber jede Sprache auf dieser Welt sprechen oder eher mit allen Tieren sprechen können?",
+    "answers": [
+      "Jede Sprache auf dieser Welt sprechen",
+      "Mit allen Tieren sprechen können"
+    ]
+  },
+  {
+    "question": "Möchtest du lieber, dass du alles, was du berührst, essen musst oder dass sich alles, was du berührst (inklusive Essen), in Gold verwandelt?",
+    "answers": ["Alles essen müssen", "Alles in Gold verwandeln"]
+  },
+  {
+    "question": "Wärest du lieber eine Katze mit menschlicher Intelligenz oder ein Mensch mit der Intelligenz einer Katze?",
+    "answers": [
+      "Katze mit menschlicher Intelligenz",
+      "Mensch mit der Intelligenz einer Katze"
+    ]
+  },
+  {
+    "question": "Möchtest du lieber die Fähigkeit haben, die Zukunft vorauszusehen und keine Erinnerung an die Vergangenheit oder eine perfekte Erinnerung an die Vergangenheit und unfähig neue Erinnerungen zu erzeugen?",
+    "answers": [
+      "Die Zukunft vorauszusehen",
+      "Eine perfekte Erinnerung an die Vergangenheit"
+    ]
+  },
+  {
+    "question": "Möchtest du lieber nie wieder Emojis nutzen können oder nie wieder ein Selfie machen können?",
+    "answers": ["Nie wieder Emojis nutzen", "Nie wieder ein Selfie machen"]
+  },
+  {
+    "question": "Möchtest du lieber jede Sprache fließend sprechen können or eher in jedes Land auf der Erde reisen können?",
+    "answers": [
+      "Jede Sprache fließend sprechen können",
+      "In jedes Land auf der Erde reisen können"
+    ]
+  },
+  {
+    "question": "Möchtest du lieber, dass sich deine Füße in Rollschuhe verwandeln oder dass sich deine Hände in Gabeln verwandeln?",
+    "answers": [
+      "Füße verwandeln sich in Rollschuhe",
+      "Hände verwandeln sich in Gabeln"
+    ]
+  },
+  {
+    "question": "Würdest du lieber auf WLAN verzichten oder darauf, dich außerhalb deiner Stadt bewegen zu können?",
+    "answers": [
+      "Auf WLAN verzichten",
+      "Nie wieder außerhalb meiner Stadt bewegen"
+    ]
+  },
+  {
+    "question": "Wärest du lieber reich und hässlich oder schön und arm?",
+    "answers": ["Reich und hässlich", "Schön und arm"]
+  },
+  {
+    "question": "Wärest du lieber intelligent und hässlich oder schön und dumm?",
+    "answers": ["Intelligent und hässlich", "Schön und dumm"]
+  },
+  {
+    "question": "Möchtest du lieber alle Ampeln nach Belieben umschalten können oder jede Werbung im Fernsehen und Web überspringen können?",
+    "answers": [
+      "Alle Ampeln nach Belieben umschalten können",
+      "Jede Werbung überspringen können"
+    ]
+  },
+  {
+    "question": "Würdest du lieber ein friedliches aber langweiliges Leben führen oder ein aufregendes aber gefährliches?",
+    "answers": [
+      "Ein friedliches aber langweiliges Leben",
+      "Ein aufregendes aber gefährliches Leben"
+    ]
+  },
+  {
+    "question": "Würdest du lieber ein langes unbedeutendes Leben führen oder eher früh sterben, aber aufgrund einer bemerkenswerten Leistung in die Geschichte eingehen?",
+    "answers": [
+      "Ein langes unbedeutendes Leben führen",
+      "Früh sterben, aber in die Geschichte eingehen"
+    ]
+  },
+  {
+    "question": "Würdest du lieber dein Leben nochmals leben ohne irgendetwas ändern zu können oder eher die Zukunft voraussehen ohne irgendetwas ändern zu können?",
+    "answers": ["Mein Leben nochmals leben", "Die Zukunft voraussehen"]
+  },
+  {
+    "question": "Würdest du lieber auf die Fähigkeit zu schmecken oder eher auf die Fähigkeit zu sprechen verzichten?",
+    "answers": ["Die Fähigkeit zu schmecken", "Die Fähigkeit zu sprechen"]
+  }
+]
