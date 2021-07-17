@@ -6,7 +6,11 @@ from utils import df_to_json
 import pandas as pd
 
 WEB_URL = 'https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/German_frequency_list-1-5000'
-ACCEPTED_SYMBOLS = "[^A-Za-zöäßüÜÄÖ]"
+ACCEPTED_SYMBOLS = {
+    'de': "[^A-Za-zöäßüÜÄÖ]",
+    'es': "[^A-Za-záéíóúüñÁÉÍÓÚÜÑ]",
+    'it': "[^A-Za-zÀÈÉÌÒÙàèéìòù]",
+}
 
 def download_words(url):
     html = urlopen(url).read()
@@ -29,7 +33,7 @@ def process_data(data):
     df.columns = ['frequency', 'word']
 
     # Remove rows containing undesired symbols
-    df = df[~df.word.str.contains(ACCEPTED_SYMBOLS, regex=True, na=False)]
+    df = df[~df.word.str.contains(ACCEPTED_SYMBOLS['de'], regex=True, na=False)]
 
     # Remove duplicate words, case insensitive
     df['word_2'] = df['word'].str.strip()
