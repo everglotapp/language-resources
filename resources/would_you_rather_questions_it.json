@@ -1,0 +1,225 @@
+[
+  {
+    "question": "Preferiresti essere sempre circondato da persone arroganti o passare tutto il tempo con persone ingrate?",
+    "answers": ["Persone arroganti", "Persone ingrate"]
+  },
+  {
+    "question": "Preferiresti essere in grado di parlare tutte le lingue umane del mondo o parlare con tutti gli animali?",
+    "answers": ["Parla ogni lingua umana", "Parlare con gli animali"]
+  },
+  {
+    "question": "Preferiresti dover mangiare tutto ciò che tocchi o avere tutto ciò che tocchi (compreso il cibo) trasformato in oro?",
+    "answers": [
+      "Mangiare tutto quello che tocco",
+      "Trasforma in oro tutto ciÃ² che tocco"
+    ]
+  },
+  {
+    "question": "Preferiresti essere un gatto con intelligenza umana o un umano con l'intelligenza di un gatto?",
+    "answers": [
+      "Gatto con intelligenza umana",
+      "Umano con intelligenza di gatto"
+    ]
+  },
+  {
+    "question": "Preferiresti avere il potere di prevedere il futuro ma non avere ricordi del passato o avere una memoria perfetta del passato ma non poter creare nuovi ricordi?",
+    "answers": ["Prevedere il futuro", "Memoria perfetta"]
+  },
+  {
+    "question": "Preferiresti non essere mai in grado di usare un'emoji o non essere mai piÃ¹ in grado di scattare un selfie?",
+    "answers": ["Non usare mai piÃ¹ un'emoji", "Non fare mai piÃ¹ un selfie"]
+  },
+  {
+    "question": "Preferiresti parlare fluentemente tutte le lingue o visitare tutti i paesi della terra?",
+    "answers": [
+      "Parlare fluentemente ogni lingua",
+      "Visitare tutti i paesi della terra"
+    ]
+  },
+  {
+    "question": "Preferiresti che i tuoi piedi si trasformassero in pattini o le tue mani in forchette?",
+    "answers": [
+      "I piedi si trasformano in pattini a rotelle",
+      "Le mani si trasformano in forchette"
+    ]
+  },
+  {
+    "question": "Preferiresti rinunciare al wifi o alla possibilità di viaggiare fuori dalla tua città?",
+    "answers": [
+      "Rinunciare al wifi",
+      "Rinunciare alla possibilitÃ  di viaggiare"
+    ]
+  },
+  {
+    "question": "Preferiresti essere ricco e brutto o bello e povero?",
+    "answers": ["Ricco e brutto", "Bello e povero"]
+  },
+  {
+    "question": "Preferiresti essere intelligente e brutto o bello e stupido?",
+    "answers": ["Intelligente e brutto", "Bello e stupido"]
+  },
+  {
+    "question": "Preferite essere in grado di cambiare i semafori a piacimento o saltare ogni pubblicitÃ  in tv e sul web?",
+    "answers": ["Cambiare i semafori a piacimento", "Salta ogni annuncio"]
+  },
+  {
+    "question": "Preferiresti vivere una vita tranquilla ma noiosa o una vita eccitante ma pericolosa?",
+    "answers": ["Vita tranquilla ma noiosa", "Vita eccitante ma pericolosa"]
+  },
+  {
+    "question": "Preferiresti vivere una vita lunga e irrilevante o morire giovane ma passare alla storia per un risultato notevole?",
+    "answers": [
+      "Una vita lunga e irrilevante",
+      "Morire giovani ma vivere nella storia"
+    ]
+  },
+  {
+    "question": "Preferiresti dover vivere di nuovo la tua vita senza poter cambiare nulla o prevedere il futuro senza poter cambiare nulla?",
+    "answers": ["Vivere di nuovo la mia vita", "Prevedere il futuro"]
+  },
+  {
+    "question": "Preferiresti perdere la capacità di gustare il cibo o la capacità di parlare?",
+    "answers": [
+      "Perdere la capacitÃ  di gustare il cibo",
+      "Perdere la capacitÃ  di parlare"
+    ]
+  },
+  {
+    "question": "Preferiresti vincere la lotteria e non aver piÃ¹ bisogno di lavorare, o ottenere il lavoro dei tuoi sogni?",
+    "answers": ["Vincere la lotteria", "Ottenere il lavoro dei miei sogni"]
+  },
+  {
+    "question": "Preferiresti nascere con 4 braccia o nascere con 4 gambe? Cosa faresti con i tuoi arti extra?",
+    "answers": ["Quattro braccia", "Quattro gambe"]
+  },
+  {
+    "question": "Preferiresti avere un anello magico che ti rende invisibile quando lo indossi o una macchina del tempo?",
+    "answers": ["Anello magico che mi rende invisibile", "Macchina del tempo"]
+  },
+  {
+    "question": "preferiresti sposare qualcuno che ami o sposare qualcuno che ti ama?",
+    "answers": ["Sposare qualcuno che amo", "Sposare qualcuno che mi ama"]
+  },
+  {
+    "question": "preferiresti essere un poeta cieco o un musicista sordo?",
+    "answers": ["Poeta cieco", "Musicista sordo"]
+  },
+  {
+    "question": "Preferiresti essere una celebritÃ  con molti fan ma alienarti tutti i tuoi amici e la tua famiglia, o essere benvoluto nella tua cerchia sociale personale ma non sperimentare mai la fama?",
+    "answers": ["CelebritÃ  solitaria", "Ordinaria farfalla sociale"]
+  },
+  {
+    "question": "Preferiresti nascere da una famiglia reale in un periodo pre-moderno/ pre-industriale, o essere una persona comune ora?",
+    "answers": ["RegalitÃ  premoderna", "Ordinaria persona moderna"]
+  },
+  {
+    "question": "Preferiresti vivere in una casa-barca o in una casa-roulotte?",
+    "answers": ["Casa della barca", "Casa del rimorchio"]
+  },
+  {
+    "question": "Preferiresti partecipare a un reality show di sopravvivenza su un'isola deserta o a un reality show di incontri/partecipazioni?",
+    "answers": ["Sopravvivenza su un'isola deserta", "Incontri / Incontri"]
+  },
+  {
+    "question": "Preferiresti avere l'immortalità ma non essere mai più in grado di mangiare o assaporare il cibo, o essere in grado di mangiare qualsiasi cosa tu voglia (senza conseguenze finanziarie o di salute) ma morire a 80 anni?",
+    "answers": ["ImmortalitÃ ", "Mangiare quello che voglio"]
+  },
+  {
+    "question": "Preferisci lavorare da casa o in un ufficio?",
+    "answers": ["Lavoro da casa", "Lavorare in un ufficio"]
+  },
+  {
+    "question": "Preferisci studiare in biblioteca o in un caffÃ¨?",
+    "answers": ["Studiare in biblioteca", "Studiare in un caffÃ¨"]
+  },
+  {
+    "question": "Preferiresti cucinare a casa per il resto della tua vita o mangiare al ristorante per il resto della tua vita?",
+    "answers": ["Cucinare a casa", "Mangiare in un ristorante"]
+  },
+  {
+    "question": "Preferisci fare una vacanza di un mese in primavera o in autunno?",
+    "answers": ["Primavera", "Caso"]
+  },
+  {
+    "question": "Preferisci fare una vacanza di un mese in inverno o in estate?",
+    "answers": ["Inverno", "Estate"]
+  },
+  {
+    "question": "Preferiresti essere un atleta famoso o una star del cinema famoso?",
+    "answers": ["Atleta", "Movie star"]
+  },
+  {
+    "question": "Preferiresti essere un famoso politico o un famoso uomo d'affari?",
+    "answers": ["Politico famoso", "Famoso uomo d'affari"]
+  },
+  {
+    "question": "Preferisci avviare una tua azienda o rilevare e dirigere un'azienda giÃ  affermata?",
+    "answers": ["Avviare la mia azienda", "Dirigere un'azienda affermata"]
+  },
+  {
+    "question": "Preferiresti avere 1 milione di euro in Bitcoin o in azioni Tesla?",
+    "answers": ["Bitcoin", "Tesla"]
+  },
+  {
+    "question": "Preferisci svegliarti presto o stare sveglio fino a tardi? PerchÃ©?",
+    "answers": ["Svegliarsi presto", "Rimanere alzati fino a tardi"]
+  },
+  {
+    "question": "Preferiresti avere una memoria fotografica o un'intonazione perfetta?",
+    "answers": ["Memoria fotografica", "Passo perfetto"]
+  },
+  {
+    "question": "Preferiresti mangiare cibo freddo in inverno (supponendo che tu abbia il riscaldamento interno) o caldo in estate (supponendo che tu abbia l'aria condizionata)",
+    "answers": ["Cibo freddo in inverno", "Non cibo in estate"]
+  },
+  {
+    "question": "Preferiresti non avere riscaldamento in inverno o non avere aria condizionata in estate? In quale parte del mondo ti trovi e quanto sono estremi gli inverni e le estati nella tua regione?",
+    "answers": [
+      "Nessun riscaldamento in inverno",
+      "Niente aria condizionata in estate"
+    ]
+  },
+  {
+    "question": "Preferisci avere la visione notturna o sentire i suoni a tutte le frequenze?",
+    "answers": ["Visione notturna", "Sentire tutte le frequenze"]
+  },
+  {
+    "question": "Vinceresti i biglietti per le olimpiadi invernali o per quelle estive?",
+    "answers": ["Olimpiadi invernali", "Olimpiadi estive"]
+  },
+  {
+    "question": "Preferiresti essere in grado di risolvere il cambiamento climatico o creare un nuovo habitat per l'umanitÃ  su un nuovo pianeta simile alla terra?",
+    "answers": [
+      "Fissare il cambiamento climatico",
+      "Nuovo pianeta per l'umanitÃ "
+    ]
+  },
+  {
+    "question": "Preferiresti poter respirare sott'acqua o volare nell'aria?",
+    "answers": ["Respiro sotto l'acqua", "Volare nell'aria"]
+  },
+  {
+    "question": "Quando vai in vacanza, preferisci visitare una grande cittÃ  o passare del tempo nella natura?",
+    "answers": ["Grande cittÃ ", "Natura"]
+  },
+  {
+    "question": "Se potessi viaggiare nel tempo, preferiresti viaggiare nel futuro o nel passato?",
+    "answers": ["Viaggio nel futuro", "Viaggio nel passato"]
+  },
+  {
+    "question": "Preferiresti avere molto tempo libero ma pochi soldi o molti soldi ma poco tempo libero?",
+    "answers": ["Un sacco di tempo libero", "Un sacco di soldi"]
+  },
+  {
+    "question": "Preferiresti vivere per 100 anni come la persona piÃ¹ ricca del mondo o vivere per 200 anni con il tuo reddito attuale?",
+    "answers": ["La persona piÃ¹ ricca del mondo", "Vivere per 200 anni"]
+  },
+  {
+    "question": "Preferiresti essere Elon Musk o Tim Cook?",
+    "answers": ["Elon Musk", "Tim Cook"]
+  },
+  {
+    "question": "Preferiresti essere Bill Gates o Mark Zuckerberg?",
+    "answers": ["Bill Gates", "Mark Zuckerberg"]
+  }
+]

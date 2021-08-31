@@ -1,0 +1,213 @@
+[
+  {
+    "question": "Prefere estar rodeado de pessoas arrogantes a toda a hora ou passar todo o seu tempo Ã  volta de pessoas ingratas?",
+    "answers": ["Pessoas arrogantes", "Pessoas ingratas"]
+  },
+  {
+    "question": "Prefere ser capaz de falar todas as lÃ­nguas humanas do mundo ou falar com todos os animais?",
+    "answers": ["Falar todas as lÃ­nguas humanas", "Fale com animais"]
+  },
+  {
+    "question": "Prefere comer tudo o que toca ou que tudo o que toca (incluindo comida) se transforme em ouro?",
+    "answers": ["Comer tudo o que toco", "Transformar tudo o que toco em ouro"]
+  },
+  {
+    "question": "Prefere ser um gato com inteligência humana ou um humano com a inteligência de um gato?",
+    "answers": [
+      "Gato com inteligÃªncia humana",
+      "Humano com inteligÃªncia felina"
+    ]
+  },
+  {
+    "question": "Prefere ter o poder de prever o futuro mas n찾o ter mem처rias do passado ou ter uma mem처ria perfeita do passado mas incapaz de criar novas mem처rias?",
+    "answers": ["Prever o futuro", "MemÃ³ria perfeita"]
+  },
+  {
+    "question": "Prefere nunca mais ser capaz de usar um emoji ou nunca mais ser capaz de tomar uma fotografia de si mesmo?",
+    "answers": ["Nunca mais usar um emoji", "Nunca mais se suicidar"]
+  },
+  {
+    "question": "Prefere falar todas as línguas fluentemente ou visitar todos os países da Terra?",
+    "answers": [
+      "Falar todas as lÃ­nguas fluentemente",
+      "Visite todos os paÃ­ses do mundo"
+    ]
+  },
+  {
+    "question": "Prefere que os seus pés se transformem em lâminas de roletes ou que as suas mãos se transformem em garfos?",
+    "answers": [
+      "Os pés transformam-se em lâminas de rolo",
+      "As mÃ£os transformam-se em garfos"
+    ]
+  },
+  {
+    "question": "Prefere desistir do wifi ou desistir da possibilidade de viajar para fora da sua cidade?",
+    "answers": ["Desistir do wifi", "Abandonar a capacidade de viajar"]
+  },
+  {
+    "question": "Prefere ser rico e feio ou bonito e pobre?",
+    "answers": ["Rico e feio", "Bonito e pobre"]
+  },
+  {
+    "question": "Prefere ser inteligente e feio ou bonito e estÃºpido?",
+    "answers": ["Inteligente e feio", "Bonito e estÃºpido"]
+  },
+  {
+    "question": "Prefere ser capaz de mudar os semáforos à vontade ou saltar todos os anúncios na televisão e na web?",
+    "answers": ["Mudança de semáforos à vontade", "Saltar todos os anÃºncios"]
+  },
+  {
+    "question": "Prefere viver uma vida pacÃ­fica mas aborrecida ou uma vida excitante mas perigosa?",
+    "answers": ["Vida tranquila mas enfadonha", "Vida excitante mas perigosa"]
+  },
+  {
+    "question": "Preferiria viver uma vida longa e sem precedentes ou morrer jovem mas viver na história para um feito notável?",
+    "answers": ["Vida longa e sem marcas", "Morre jovem mas vive na histÃ³ria"]
+  },
+  {
+    "question": "Preferia ter de viver a sua vida de novo mas não ser capaz de mudar nada ou prever o futuro mas não ser capaz de mudar nada?",
+    "answers": ["Viver a minha vida de novo", "Prever o futuro"]
+  },
+  {
+    "question": "Prefere perder a sua capacidade de provar os alimentos ou perder a sua capacidade de falar?",
+    "answers": [
+      "Perder a capacidade de provar os alimentos",
+      "Perder a capacidade de falar"
+    ]
+  },
+  {
+    "question": "Prefere ganhar a lotaria e nunca mais precisar de trabalhar, ou conseguir o trabalho dos seus sonhos?",
+    "answers": ["Ganhar a lotaria", "Obter o trabalho dos meus sonhos"]
+  },
+  {
+    "question": "Prefere nascer com 4 braÃ§os ou nascer com 4 pernas? O que faria com os seus membros extra?",
+    "answers": ["Quatro braÃ§os", "Quatro pernas"]
+  },
+  {
+    "question": "Preferia ter um anel mágico que o tornasse invisível quando o colocasse, ou uma máquina do tempo?",
+    "answers": ["Anel mágico que me torna invisível", "MÃ¡quina do tempo"]
+  },
+  {
+    "question": "prefere casar com alguém que ama ou casar com alguém que o ama?",
+    "answers": ["Casar com alguÃ©m que eu amo", "Casar com alguÃ©m que me ama"]
+  },
+  {
+    "question": "prefere ser um poeta cego ou um mÃºsico surdo?",
+    "answers": ["Poeta cego", "MÃºsico surdo"]
+  },
+  {
+    "question": "Prefere ser uma celebridade com muitos fãs mas alienar todos os seus amigos e família, ou ser bem visto no seu círculo social pessoal mas nunca experimentar a fama?",
+    "answers": ["Celebridade solitÃ¡ria", "Borboleta social comum"]
+  },
+  {
+    "question": "Prefere nascer na realeza num período de tempo pré-moderno / pré-industrial, ou ser uma pessoa comum agora?",
+    "answers": ["A realeza prÃ©-moderna", "Pessoa comum moderna"]
+  },
+  {
+    "question": "Prefere viver numa casa de barco ou numa casa de reboque?",
+    "answers": ["Casa de barco", "Reboque para casa"]
+  },
+  {
+    "question": "Prefere participar num reality show de sobrevivência numa ilha deserta ou num reality show de encontros/fósforos?",
+    "answers": ["SobrevivÃªncia em ilhas desertas", "Datação / Fósforos"]
+  },
+  {
+    "question": "Prefere ter imortalidade mas nunca mais poder comer ou provar comida, ou poder comer o que quiser (sem consequências financeiras ou de saúde) mas morrer aos 80 anos de idade?",
+    "answers": ["Imortalidade", "Coma o que eu quiser"]
+  },
+  {
+    "question": "Prefere trabalhar a partir de casa ou num escritÃ³rio?",
+    "answers": ["Trabalho a partir de casa", "Trabalhar num escritÃ³rio"]
+  },
+  {
+    "question": "Prefere estudar na biblioteca ou estudar num cafÃ©?",
+    "answers": ["Estudo na biblioteca", "Estudar num cafÃ©"]
+  },
+  {
+    "question": "Prefere cozinhar em casa para o resto da sua vida ou comer em restaurantes para o resto da sua vida?",
+    "answers": ["Cozinhar em casa", "Comer num restaurante"]
+  },
+  {
+    "question": "Prefere tirar um mês de férias na Primavera ou no Outono?",
+    "answers": ["Primavera", "Caso"]
+  },
+  {
+    "question": "Prefere tirar um mês de férias no Inverno ou no Verão?",
+    "answers": ["Inverno", "VerÃ£o"]
+  },
+  {
+    "question": "Prefere ser um atleta famoso ou uma estrela de cinema celebridade?",
+    "answers": ["Atleta", "Estrela de cinema"]
+  },
+  {
+    "question": "Prefere ser um político famoso ou uma pessoa famosa de negócios?",
+    "answers": ["Famoso político", "EmpresÃ¡rio famoso"]
+  },
+  {
+    "question": "Prefere criar a sua própria empresa ou assumir e gerir uma empresa já estabelecida?",
+    "answers": [
+      "Iniciar a minha prÃ³pria empresa",
+      "Gerir uma empresa estabelecida"
+    ]
+  },
+  {
+    "question": "Prefere 1 milhão de euros em Bitcoin ou em acções Tesla?",
+    "answers": ["Bitcoin", "Tesla"]
+  },
+  {
+    "question": "Prefere acordar cedo ou ficar acordado até tarde? Porquê?",
+    "answers": ["Acorda cedo", "Ficar acordado atÃ© tarde"]
+  },
+  {
+    "question": "Prefere ter memória fotográfica ou um tom perfeito?",
+    "answers": ["Memória fotográfica", "Passo perfeito"]
+  },
+  {
+    "question": "Prefere comer comida fria no Inverno (assumindo que tem aquecimento interior) ou comida quente no VerÃ£o (assumindo que tem ar condicionado)",
+    "answers": ["Comida fria no Inverno", "Não comida no Verão"]
+  },
+  {
+    "question": "Prefere não ter aquecimento no Inverno ou não ter ar condicionado no Verão? Em que parte do mundo se encontra e em que extremos se encontram os Invernos e Verões na sua região?",
+    "answers": ["Sem aquecimento no Inverno", "Sem ar condicionado no VerÃ£o"]
+  },
+  {
+    "question": "Prefere ter visão nocturna ou ouvir sons em todas as frequências?",
+    "answers": ["VisÃ£o nocturna", "Ouvir todas as frequÃªncias"]
+  },
+  {
+    "question": "Ganharia bilhetes para os Jogos Olímpicos de Inverno ou para os de Verão?",
+    "answers": ["OlimpÃ­adas de Inverno", "Olimpíadas de Verão"]
+  },
+  {
+    "question": "Prefere ser capaz de fixar as alterações climáticas ou criar um novo habaitat para a humanidade num novo planeta semelhante à Terra?",
+    "answers": ["Fixar a mudança climática", "Novo planeta para a humanidade"]
+  },
+  {
+    "question": "Prefere ser capaz de respirar debaixo de água ou de voar espicaçando o ar?",
+    "answers": ["Respiração debaixo de água", "Voar pelo ar"]
+  },
+  {
+    "question": "Quando vai de fÃ©rias, prefere visitar uma grande cidade ou passar tempo na natureza?",
+    "answers": ["Grande cidade", "Natureza"]
+  },
+  {
+    "question": "Se pudesse viajar no tempo, preferia viajar para o futuro ou viajar para o passado?",
+    "answers": ["Viajar para o futuro", "Viajar para o passado"]
+  },
+  {
+    "question": "Prefere ter muito tempo livre mas pouco dinheiro ou muito dinheiro mas pouco tempo livre?",
+    "answers": ["Muito tempo livre", "Muito dinheiro"]
+  },
+  {
+    "question": "Prefere viver 100 anos como a pessoa mais rica do mundo ou viver 200 anos com o seu rendimento actual?",
+    "answers": ["A pessoa mais rica do mundo", "Viver durante 200 anos"]
+  },
+  {
+    "question": "Prefere ser Elon Musk ou Tim Cook?",
+    "answers": ["Elon Musk", "Tim Cook"]
+  },
+  {
+    "question": "Prefere ser Bill Gates ou Mark Zuckerberg?",
+    "answers": ["Bill Gates", "Mark Zuckerberg"]
+  }
+]

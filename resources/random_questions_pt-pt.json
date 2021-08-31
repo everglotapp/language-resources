@@ -1,0 +1,56 @@
+[
+  { "question": "Qual é o seu canal Youtube favorito e porquê?" },
+  {
+    "question": "O que é uma boa actividade a fazer quando se está em stress?"
+  },
+  { "question": "Fale-nos sobre um tema pelo qual Ã© apaixonado." },
+  { "question": "Com que trÃªs palavras os seus amigos o descreveriam?" },
+  { "question": "O que planeia fazer este fim-de-semana?" },
+  {
+    "question": "Qual é a sua comida tradicional favorita de uma cultura ou país que fala a sua língua-alvo? Porquê?"
+  },
+  {
+    "question": "O que costuma comer ao pequeno-almoço? Isto é comum no seu país / região?"
+  },
+  { "question": "Qual Ã© o item na sua casa que mais alegria provoca?" },
+  {
+    "question": "Que actividade de procrastinação é que perde mais tempo a fazer?"
+  },
+  { "question": "Que animais de estimação tem ou gostaria de ter?" },
+  { "question": "Que actividades de lazer sÃ£o populares na sua cidade?" },
+  { "question": "Qual é uma tendência popular que deseja que desapareça?" },
+  { "question": "O que é um bom local de férias no seu país?" },
+  { "question": "Como é o sistema educativo no seu país?" },
+  {
+    "question": "Que desportos ou exercício físico pratica com mais frequência? Porquê?"
+  },
+  {
+    "question": "Como é que normalmente se encontram novos amigos? Onde é que as pessoas no seu país / região costumam encontrar novos amigos?"
+  },
+  {
+    "question": "É mais difícil fazer novos amigos quando já não se está na escola? Porquê ou porque não?"
+  },
+  { "question": "O que Ã© que mais gosta (ou gostava) da escola?" },
+  {
+    "question": "O que Ã© que mais lhe desagrada (ou o que mais lhe desagradou) na escola?"
+  },
+  { "question": "Quando era criança, qual era a profissão dos seus sonhos?" },
+  { "question": "Se se transformasse num animal, que animal seria e porquÃª?" },
+  { "question": "Se começasse um negócio, que tipo de negócio seria?" },
+  {
+    "question": "Qual é o seu filme na sua língua-alvo que recomendaria aos outros? Porquê?"
+  },
+  {
+    "question": "Recomende um filme da sua língua materna. Porque é que este filme é bom?"
+  },
+  { "question": "Qual Ã© o seu conto de fadas favorito?" },
+  {
+    "question": "Qual é o conto de fadas mais estranho do seu país / cultura?"
+  },
+  {
+    "question": "É um coleccionador? O que é que recolhe? Se pudesse coleccionar algo (arte, selos, antiguidades, etc.), o que coleccionaria?"
+  },
+  {
+    "question": "Se pudesse tornar-se o protagonista de um conto de fadas, que conto de fadas seria esse?"
+  }
+]

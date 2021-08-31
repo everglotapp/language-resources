@@ -1,0 +1,68 @@
+[
+  { "question": "Quelle est votre chaîne Youtube préférée et pourquoi ?" },
+  {
+    "question": "Quelle est une bonne activité à faire quand on est stressé ?"
+  },
+  { "question": "Parlez-nous d'un sujet qui vous passionne." },
+  { "question": "Avec quels trois mots vos amis vous dÃ©criraient-ils ?" },
+  { "question": "Que comptez-vous faire ce week-end ?" },
+  {
+    "question": "Quel est votre plat traditionnel préféré dans une culture ou un pays qui parle votre langue cible ? Pourquoi ?"
+  },
+  {
+    "question": "Que mangez-vous généralement au petit-déjeuner ? Est-ce courant dans votre pays / région ?"
+  },
+  {
+    "question": "Quel est l'objet de votre maison qui suscite le plus de joie ?"
+  },
+  {
+    "question": "Quelle activité de procrastination perdez-vous le plus de temps à faire ?"
+  },
+  {
+    "question": "Quels sont les animaux de compagnie que vous avez ou que vous aimeriez avoir ?"
+  },
+  {
+    "question": "Quelles sont les activitÃ©s de loisirs les plus populaires dans votre ville ?"
+  },
+  {
+    "question": "Quelle est une tendance populaire que vous aimeriez voir disparaÃ®tre ?"
+  },
+  { "question": "Quel est un bon lieu de vacances dans votre pays ?" },
+  { "question": "Comment est le système éducatif dans votre pays ?" },
+  {
+    "question": "Quels sports ou exercices physiques pratiquez-vous le plus souvent ? Pourquoi ?"
+  },
+  {
+    "question": "Comment rencontrez-vous habituellement de nouveaux amis ? Où les habitants de votre pays/région rencontrent-ils habituellement leurs amis ?"
+  },
+  {
+    "question": "Est-il plus difficile de se faire de nouveaux amis quand on n'est plus à l'école ? Pourquoi ou pourquoi pas ?"
+  },
+  { "question": "Qu'est-ce qui te plaît (ou te plaisait) le plus à l'école ?" },
+  { "question": "Qu'est-ce que tu aimes (ou aimais) le plus à l'école ?" },
+  {
+    "question": "Quand vous étiez enfant, quel était le métier de vos rêves ?"
+  },
+  {
+    "question": "Si vous deviez vous transformer en un animal, quel animal seriez-vous et pourquoi ?"
+  },
+  {
+    "question": "Si vous lanciez une entreprise, quel genre d'entreprise serait-ce ?"
+  },
+  {
+    "question": "Quel est votre film dans votre langue cible que vous recommanderiez Ã  d'autres ? Pourquoi ?"
+  },
+  {
+    "question": "Recommandez un film dans votre langue maternelle. Pourquoi ce film est-il bon ?"
+  },
+  { "question": "Quel est votre conte de fées préféré ?" },
+  {
+    "question": "Quel est le conte de fées le plus étrange de votre pays / culture ?"
+  },
+  {
+    "question": "Êtes-vous un collectionneur ? Que collectionnez-vous ? Si vous pouviez collectionner quelque chose (art, timbres, antiquités, etc.), que collectionneriez-vous ?"
+  },
+  {
+    "question": "Si vous pouviez devenir le protagoniste d'un conte de fées, quel serait ce conte de fées ?"
+  }
+]

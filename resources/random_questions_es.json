@@ -1,0 +1,58 @@
+[
+  { "question": "¿Cuál es su canal de Youtube favorito y por qué?" },
+  {
+    "question": "¿Cuál es una buena actividad para hacer cuando estás estresado?"
+  },
+  { "question": "HÃ¡blenos de un tema que le apasione." },
+  { "question": "¿Con qué tres palabras te describirían tus amigos?" },
+  { "question": "¿Qué piensa hacer este fin de semana?" },
+  {
+    "question": "¿Cuál es tu comida tradicional favorita de una cultura o país que habla tu idioma? ¿Por qué?"
+  },
+  { "question": "¿Qué suele desayunar? ¿Es esto común en su país/región?" },
+  { "question": "¿Qué objeto de su casa le produce más alegría?" },
+  {
+    "question": "¿Qué actividad de procrastinación es la que más tiempo le hace perder?"
+  },
+  { "question": "¿Qué mascotas tiene o le gustaría tener?" },
+  { "question": "¿Qué actividades de ocio son populares en su ciudad?" },
+  {
+    "question": "¿Cuál es la tendencia popular que le gustaría que desapareciera?"
+  },
+  { "question": "¿Cuál es un buen lugar de vacaciones en su país?" },
+  { "question": "¿Cómo es el sistema educativo de su país?" },
+  {
+    "question": "¿Qué deporte o ejercicio físico practica con más frecuencia? ¿Por qué?"
+  },
+  {
+    "question": "¿Cómo suele conocer a sus amigos? ¿Dónde suele conocer amigos la gente de tu país/región?"
+  },
+  {
+    "question": "¿Es más difícil hacer nuevos amigos cuando ya no estás en la escuela? ¿Por qué o por qué no?"
+  },
+  { "question": "¿Qué es lo que más te gusta (o te gustaba) de la escuela?" },
+  {
+    "question": "¿Qué es lo que más te disgusta (o te disgustaba) de la escuela?"
+  },
+  { "question": "Cuando era niño, ¿cuál era su profesión soñada?" },
+  {
+    "question": "Si te convirtieras en un animal, ¿qué animal serías y por qué?"
+  },
+  {
+    "question": "Si pusiera en marcha un negocio, ¿qué tipo de negocio sería?"
+  },
+  {
+    "question": "¿Qué película en su lengua de destino recomendaría a los demás? ¿Por qué?"
+  },
+  {
+    "question": "Recomienda una película de tu lengua materna. ¿Por qué es buena esta película?"
+  },
+  { "question": "¿Cuál es su cuento de hadas favorito?" },
+  { "question": "¿Cuál es el cuento más extraño de su país/cultura?" },
+  {
+    "question": "¿Es usted coleccionista? ¿Qué colecciona? Si pudiera coleccionar algo (arte, sellos, antigüedades, etc.), ¿qué coleccionaría?"
+  },
+  {
+    "question": "Si pudiera convertirse en el protagonista de un cuento de hadas, ¿qué cuento de hadas sería?"
+  }
+]
