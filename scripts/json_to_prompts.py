@@ -17,7 +17,7 @@ parser.add_argument("--type", type=str,
                     required=True)
 parser.add_argument("--locale", type=str,
                     help="Alpha2 code for the language to load",
-                    required=True)             
+                    required=True)
 parser.add_argument("--postgres", type=str,
                     help="postgres Url")
 args = parser.parse_args()
@@ -27,7 +27,17 @@ file_base = os.path.basename(path)
 filename = os.path.splitext(file_base)[0]
 
 TABLE_NAME = "app_public.prompts"
-LANGUAGES = {'en': 37, 'de': 33, 'zh': 183}
+LANGUAGES = {
+    'en': 37,
+    'de': 33,
+    'zh': 183,
+    'it': 74,
+    'pt': 130,
+    'es': 148,
+    'ru': 136,
+    'fr': 46,
+    'ko': 89,
+    'ja': 76}
 
 if args.postgres:
     POSTGRES_URL = args.postgres
@@ -61,7 +71,7 @@ def load_df_to_table(df, table_name, postgres_url):
 def json_to_dataframe(filename, prompt_type, locale):
 
     df = pd.read_json(filename, orient='records')
-    
+
     # Set uuid for each row
     df = df[prompt_type].to_frame()
     df['uuid'] = [uuid.uuid4() for _ in range(len(df.index))]

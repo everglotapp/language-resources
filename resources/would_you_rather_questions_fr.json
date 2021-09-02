@@ -17,13 +17,13 @@
   {
     "question": "Préféreriez-vous être un chat avec une intelligence humaine ou un humain avec l'intelligence d'un chat ?",
     "answers": [
-      "Un chat dotÃ© d'une intelligence humaine",
+      "Un chat doté d'une intelligence humaine",
       "L'homme et l'intelligence du chat"
     ]
   },
   {
     "question": "Préféreriez-vous avoir le pouvoir de prévoir l'avenir mais ne pas avoir de souvenirs du passé ou avoir une mémoire parfaite du passé mais être incapable de créer de nouveaux souvenirs ?",
-    "answers": ["PrÃ©voir l'avenir", "Une mÃ©moire parfaite"]
+    "answers": ["Prévoir l'avenir", "Une mémoire parfaite"]
   },
   {
     "question": "Préféreriez-vous ne jamais pouvoir utiliser un emoji ou ne plus pouvoir prendre de selfie ?",
@@ -42,7 +42,7 @@
   {
     "question": "Préféreriez-vous que vos pieds se transforment en patins à roulettes ou vos mains en fourchettes ?",
     "answers": [
-      "Les pieds se transforment en patins Ã  roulettes",
+      "Les pieds se transforment en patins à roulettes",
       "Les mains se transforment en fourches"
     ]
   },
@@ -62,7 +62,7 @@
     "question": "Préféreriez-vous pouvoir changer les feux de circulation à volonté ou sauter toutes les publicités à la télévision et sur le web ?",
     "answers": [
       "Modifier les feux de circulation à volonté",
-      "Sauter toutes les publicitÃ©s"
+      "Sauter toutes les publicités"
     ]
   },
   {
@@ -81,18 +81,18 @@
   },
   {
     "question": "Préféreriez-vous devoir revivre votre vie sans pouvoir y changer quoi que ce soit, ou bien prévoir l'avenir sans pouvoir y changer quoi que ce soit ?",
-    "answers": ["Vivre ma vie Ã  nouveau", "PrÃ©voir l'avenir"]
+    "answers": ["Vivre ma vie à nouveau", "Prévoir l'avenir"]
   },
   {
     "question": "Préféreriez-vous perdre votre capacité à goûter la nourriture ou perdre votre capacité à parler ?",
     "answers": [
       "Perdre la capacité de goûter les aliments",
-      "Perdre la capacitÃ© de parler"
+      "Perdre la capacité de parler"
     ]
   },
   {
     "question": "Préférez-vous gagner à la loterie et ne plus jamais avoir à travailler, ou obtenir l'emploi de vos rêves ?",
-    "answers": ["Gagner Ã  la loterie", "Obtenir le travail de mes rÃªves"]
+    "answers": ["Gagner à la loterie", "Obtenir le travail de mes rêves"]
   },
   {
     "question": "Préféreriez-vous naître avec 4 bras ou 4 jambes ? Que feriez-vous avec vos membres supplémentaires ?",
@@ -102,7 +102,7 @@
     "question": "Préféreriez-vous avoir une bague magique qui vous rendrait invisible quand vous la mettez, ou une machine à remonter le temps ?",
     "answers": [
       "Anneau magique qui me rend invisible",
-      "La machine Ã  remonter le temps"
+      "La machine  remonter le temps"
     ]
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "question": "Préféreriez-vous vivre dans un hangar à bateaux ou dans une caravane ?",
-    "answers": ["Hangar Ã  bateaux", "Trailer home"]
+    "answers": ["Hangar à bateaux", "Trailer home"]
   },
   {
     "question": "Préférez-vous participer à une émission de télé-réalité de survie sur une île déserte ou à une émission de télé-réalité de rencontres ?",
@@ -134,11 +134,11 @@
   },
   {
     "question": "Préféreriez-vous avoir l'immortalité mais ne plus jamais pouvoir manger ou goûter de nourriture, ou pouvoir manger tout ce que vous voulez (sans conséquences financières ou pour votre santé) mais mourir à 80 ans ?",
-    "answers": ["ImmortalitÃ©", "Manger tout ce que je veux"]
+    "answers": ["Immortalité", "Manger tout ce que je veux"]
   },
   {
     "question": "Préféreriez-vous travailler à domicile ou dans un bureau ?",
-    "answers": ["Travail Ã  domicile", "Travailler dans un bureau"]
+    "answers": ["Travail à domicile", "Travailler dans un bureau"]
   },
   {
     "question": "Vous préférez étudier à la bibliothèque ou dans un café ?",
@@ -146,7 +146,7 @@
   },
   {
     "question": "Préféreriez-vous cuisiner à la maison pour le reste de votre vie ou manger au restaurant pour le reste de votre vie ?",
-    "answers": ["Cuisiner Ã  la maison", "Manger dans un restaurant"]
+    "answers": ["Cuisiner à la maison", "Manger dans un restaurant"]
   },
   {
     "question": "Préféreriez-vous prendre des vacances d'un mois au printemps ou à l'automne ?",
@@ -158,7 +158,7 @@
   },
   {
     "question": "Préféreriez-vous être un athlète célèbre ou une star de cinéma célèbre ?",
-    "answers": ["AthlÃ¨te", "Star du cinÃ©ma"]
+    "answers": ["Athlète", "Star du cinéma"]
   },
   {
     "question": "Préféreriez-vous être un politicien célèbre ou un homme d'affaires célèbre ?",
@@ -166,10 +166,7 @@
   },
   {
     "question": "Préférez-vous créer votre propre entreprise ou reprendre et diriger une entreprise déjà établie ?",
-    "answers": [
-      "CrÃ©er ma propre entreprise",
-      "Diriger une entreprise Ã©tablie"
-    ]
+    "answers": ["Créer ma propre entreprise", "Diriger une entreprise établie"]
   },
   {
     "question": "Préféreriez-vous avoir 1 million d'euros détenus en bitcoins ou en actions Tesla ?",
@@ -181,7 +178,7 @@
   },
   {
     "question": "Préféreriez-vous avoir une mémoire photographique ou une oreille parfaite ?",
-    "answers": ["MÃ©moire photographique", "Le ton parfait"]
+    "answers": ["Mémoire photographique", "Le ton parfait"]
   },
   {
     "question": "Préféreriez-vous manger des aliments froids en hiver (en supposant que vous ayez un chauffage intérieur) ou des aliments chauds en été (en supposant que vous ayez la climatisation) ?",
@@ -193,7 +190,7 @@
   },
   {
     "question": "Préféreriez-vous avoir une vision nocturne ou entendre les sons à toutes les fréquences ?",
-    "answers": ["Vision nocturne", "Entendre toutes les frÃ©quences"]
+    "answers": ["Vision nocturne", "Entendre toutes les fréquences"]
   },
   {
     "question": "Gagneriez-vous des billets pour les Jeux olympiques d'hiver ou d'été ?",
@@ -216,7 +213,7 @@
   },
   {
     "question": "Si vous pouviez voyager dans le temps, préféreriez-vous voyager dans le futur ou dans le passé ?",
-    "answers": ["Voyage vers le futur", "Voyage dans le passÃ©"]
+    "answers": ["Voyage vers le futur", "Voyage dans le passé"]
   },
   {
     "question": "Préféreriez-vous avoir beaucoup de temps libre mais peu d'argent ou beaucoup d'argent mais peu de temps libre ?",

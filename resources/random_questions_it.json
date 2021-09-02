@@ -8,7 +8,7 @@
     "question": "Qual è il tuo cibo tradizionale preferito di una cultura o di un paese che parla la tua lingua di destinazione? Perché?"
   },
   {
-    "question": "Cosa mangiate di solito per colazione? Ãˆ comune nel tuo paese/regione?"
+    "question": "Cosa mangiate di solito per colazione? È comune nel tuo paese/regione?"
   },
   { "question": "Qual è l'oggetto in casa tua che scatena più gioia?" },
   { "question": "Quale attività di procrastinazione spreca più tempo?" },
@@ -16,9 +16,9 @@
   {
     "question": "Quali attività per il tempo libero sono popolari nella tua città?"
   },
-  { "question": "Qual Ã¨ una tendenza popolare che vorresti sparisse?" },
-  { "question": "Qual Ã¨ un buon posto di vacanza nel tuo paese?" },
-  { "question": "Com'Ã¨ il sistema educativo nel suo paese?" },
+  { "question": "Qual è una tendenza popolare che vorresti sparisse?" },
+  { "question": "Qual è un buon posto di vacanza nel tuo paese?" },
+  { "question": "Com'è il sistema educativo nel suo paese?" },
   { "question": "Quale sport o esercizio fisico fa più spesso? Perché?" },
   {
     "question": "Come incontri di solito nuovi amici? Dove si incontrano di solito gli amici nel tuo paese/regione?"
@@ -26,13 +26,13 @@
   {
     "question": "È più difficile farsi nuovi amici quando non si va più a scuola? Perché o perché no?"
   },
-  { "question": "Cosa ti piace (o ti piaceva) di piÃ¹ della scuola?" },
-  { "question": "Cosa ti piace (o ti piaceva) di piÃ¹ della scuola?" },
+  { "question": "Cosa ti piace (o ti piaceva) di più della scuola?" },
+  { "question": "Cosa ti piace (o ti piaceva) di più della scuola?" },
   {
     "question": "Quando eri un bambino, qual era la professione dei tuoi sogni?"
   },
   {
-    "question": "Se ti trasformassi in un animale, quale animale saresti e perchÃ©?"
+    "question": "Se ti trasformassi in un animale, quale animale saresti e perché?"
   },
   { "question": "Se iniziasse un'attività, che tipo di attività sarebbe?" },
   {
@@ -41,7 +41,7 @@
   {
     "question": "Consiglia un film della tua lingua madre. Perché questo film è buono?"
   },
-  { "question": "Qual Ã¨ la sua favola preferita?" },
+  { "question": "Qual è la sua favola preferita?" },
   { "question": "Qual è la favola più strana del tuo paese / cultura?" },
   {
     "question": "Sei un collezionista? Cosa collezioni? Se potesse collezionare qualcosa (arte, francobolli, antichitÃ , ecc.), cosa collezionerebbe?"

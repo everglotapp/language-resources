@@ -1,11 +1,11 @@
 [
   {
-    "question": "Prefere estar rodeado de pessoas arrogantes a toda a hora ou passar todo o seu tempo Ã  volta de pessoas ingratas?",
+    "question": "Prefere estar rodeado de pessoas arrogantes a toda a hora ou passar todo o seu tempo à volta de pessoas ingratas?",
     "answers": ["Pessoas arrogantes", "Pessoas ingratas"]
   },
   {
-    "question": "Prefere ser capaz de falar todas as lÃ­nguas humanas do mundo ou falar com todos os animais?",
-    "answers": ["Falar todas as lÃ­nguas humanas", "Fale com animais"]
+    "question": "Prefere ser capaz de falar todas as línguas humanas do mundo ou falar com todos os animais?",
+    "answers": ["Falar todas as línguas humanas", "Fale com animais"]
   },
   {
     "question": "Prefere comer tudo o que toca ou que tudo o que toca (incluindo comida) se transforme em ouro?",
@@ -14,13 +14,13 @@
   {
     "question": "Prefere ser um gato com inteligência humana ou um humano com a inteligência de um gato?",
     "answers": [
-      "Gato com inteligÃªncia humana",
-      "Humano com inteligÃªncia felina"
+      "Gato com inteligência humana",
+      "Humano com inteligência felina"
     ]
   },
   {
-    "question": "Prefere ter o poder de prever o futuro mas n찾o ter mem처rias do passado ou ter uma mem처ria perfeita do passado mas incapaz de criar novas mem처rias?",
-    "answers": ["Prever o futuro", "MemÃ³ria perfeita"]
+    "question": "Prefere ter o poder de prever o futuro mas não ter memórias do passado ou ter uma memória perfeita do passado mas incapaz de criar novas memórias?",
+    "answers": ["Prever o futuro", "Memória perfeita"]
   },
   {
     "question": "Prefere nunca mais ser capaz de usar um emoji ou nunca mais ser capaz de tomar uma fotografia de si mesmo?",
@@ -29,15 +29,15 @@
   {
     "question": "Prefere falar todas as línguas fluentemente ou visitar todos os países da Terra?",
     "answers": [
-      "Falar todas as lÃ­nguas fluentemente",
-      "Visite todos os paÃ­ses do mundo"
+      "Falar todas as línguas fluentemente",
+      "Visite todos os paí­ses do mundo"
     ]
   },
   {
     "question": "Prefere que os seus pés se transformem em lâminas de roletes ou que as suas mãos se transformem em garfos?",
     "answers": [
       "Os pés transformam-se em lâminas de rolo",
-      "As mÃ£os transformam-se em garfos"
+      "As mãos transformam-se em garfos"
     ]
   },
   {
@@ -49,12 +49,12 @@
     "answers": ["Rico e feio", "Bonito e pobre"]
   },
   {
-    "question": "Prefere ser inteligente e feio ou bonito e estÃºpido?",
-    "answers": ["Inteligente e feio", "Bonito e estÃºpido"]
+    "question": "Prefere ser inteligente e feio ou bonito e estúpido?",
+    "answers": ["Inteligente e feio", "Bonito e estúpido"]
   },
   {
     "question": "Prefere ser capaz de mudar os semáforos à vontade ou saltar todos os anúncios na televisão e na web?",
-    "answers": ["Mudança de semáforos à vontade", "Saltar todos os anÃºncios"]
+    "answers": ["Mudança de semáforos à vontade", "Saltar todos os anúncios"]
   },
   {
     "question": "Prefere viver uma vida pacÃ­fica mas aborrecida ou uma vida excitante mas perigosa?",
@@ -62,7 +62,7 @@
   },
   {
     "question": "Preferiria viver uma vida longa e sem precedentes ou morrer jovem mas viver na história para um feito notável?",
-    "answers": ["Vida longa e sem marcas", "Morre jovem mas vive na histÃ³ria"]
+    "answers": ["Vida longa e sem marcas", "Morre jovem mas vive na história"]
   },
   {
     "question": "Preferia ter de viver a sua vida de novo mas não ser capaz de mudar nada ou prever o futuro mas não ser capaz de mudar nada?",
@@ -80,28 +80,28 @@
     "answers": ["Ganhar a lotaria", "Obter o trabalho dos meus sonhos"]
   },
   {
-    "question": "Prefere nascer com 4 braÃ§os ou nascer com 4 pernas? O que faria com os seus membros extra?",
-    "answers": ["Quatro braÃ§os", "Quatro pernas"]
+    "question": "Prefere nascer com 4 braços ou nascer com 4 pernas? O que faria com os seus membros extra?",
+    "answers": ["Quatro braços", "Quatro pernas"]
   },
   {
     "question": "Preferia ter um anel mágico que o tornasse invisível quando o colocasse, ou uma máquina do tempo?",
-    "answers": ["Anel mágico que me torna invisível", "MÃ¡quina do tempo"]
+    "answers": ["Anel mágico que me torna invisível", "Máquina do tempo"]
   },
   {
     "question": "prefere casar com alguém que ama ou casar com alguém que o ama?",
-    "answers": ["Casar com alguÃ©m que eu amo", "Casar com alguÃ©m que me ama"]
+    "answers": ["Casar com alguém que eu amo", "Casar com alguém que me ama"]
   },
   {
-    "question": "prefere ser um poeta cego ou um mÃºsico surdo?",
-    "answers": ["Poeta cego", "MÃºsico surdo"]
+    "question": "prefere ser um poeta cego ou um músico surdo?",
+    "answers": ["Poeta cego", "Músico surdo"]
   },
   {
     "question": "Prefere ser uma celebridade com muitos fãs mas alienar todos os seus amigos e família, ou ser bem visto no seu círculo social pessoal mas nunca experimentar a fama?",
-    "answers": ["Celebridade solitÃ¡ria", "Borboleta social comum"]
+    "answers": ["Celebridade solitária", "Borboleta social comum"]
   },
   {
     "question": "Prefere nascer na realeza num período de tempo pré-moderno / pré-industrial, ou ser uma pessoa comum agora?",
-    "answers": ["A realeza prÃ©-moderna", "Pessoa comum moderna"]
+    "answers": ["A realeza pré-moderna", "Pessoa comum moderna"]
   },
   {
     "question": "Prefere viver numa casa de barco ou numa casa de reboque?",
@@ -109,19 +109,19 @@
   },
   {
     "question": "Prefere participar num reality show de sobrevivência numa ilha deserta ou num reality show de encontros/fósforos?",
-    "answers": ["SobrevivÃªncia em ilhas desertas", "Datação / Fósforos"]
+    "answers": ["Sobrevivência em ilhas desertas", "Datação / Fósforos"]
   },
   {
     "question": "Prefere ter imortalidade mas nunca mais poder comer ou provar comida, ou poder comer o que quiser (sem consequências financeiras ou de saúde) mas morrer aos 80 anos de idade?",
     "answers": ["Imortalidade", "Coma o que eu quiser"]
   },
   {
-    "question": "Prefere trabalhar a partir de casa ou num escritÃ³rio?",
-    "answers": ["Trabalho a partir de casa", "Trabalhar num escritÃ³rio"]
+    "question": "Prefere trabalhar a partir de casa ou num escritório?",
+    "answers": ["Trabalho a partir de casa", "Trabalhar num escritório"]
   },
   {
-    "question": "Prefere estudar na biblioteca ou estudar num cafÃ©?",
-    "answers": ["Estudo na biblioteca", "Estudar num cafÃ©"]
+    "question": "Prefere estudar na biblioteca ou estudar num café?",
+    "answers": ["Estudo na biblioteca", "Estudar num café"]
   },
   {
     "question": "Prefere cozinhar em casa para o resto da sua vida ou comer em restaurantes para o resto da sua vida?",
@@ -133,7 +133,7 @@
   },
   {
     "question": "Prefere tirar um mês de férias no Inverno ou no Verão?",
-    "answers": ["Inverno", "VerÃ£o"]
+    "answers": ["Inverno", "Verão"]
   },
   {
     "question": "Prefere ser um atleta famoso ou uma estrela de cinema celebridade?",
@@ -146,7 +146,7 @@
   {
     "question": "Prefere criar a sua própria empresa ou assumir e gerir uma empresa já estabelecida?",
     "answers": [
-      "Iniciar a minha prÃ³pria empresa",
+      "Iniciar a minha própria empresa",
       "Gerir uma empresa estabelecida"
     ]
   },
@@ -156,23 +156,23 @@
   },
   {
     "question": "Prefere acordar cedo ou ficar acordado até tarde? Porquê?",
-    "answers": ["Acorda cedo", "Ficar acordado atÃ© tarde"]
+    "answers": ["Acorda cedo", "Ficar acordado até tarde"]
   },
   {
     "question": "Prefere ter memória fotográfica ou um tom perfeito?",
     "answers": ["Memória fotográfica", "Passo perfeito"]
   },
   {
-    "question": "Prefere comer comida fria no Inverno (assumindo que tem aquecimento interior) ou comida quente no VerÃ£o (assumindo que tem ar condicionado)",
+    "question": "Prefere comer comida fria no Inverno (assumindo que tem aquecimento interior) ou comida quente no Verão (assumindo que tem ar condicionado)",
     "answers": ["Comida fria no Inverno", "Não comida no Verão"]
   },
   {
     "question": "Prefere não ter aquecimento no Inverno ou não ter ar condicionado no Verão? Em que parte do mundo se encontra e em que extremos se encontram os Invernos e Verões na sua região?",
-    "answers": ["Sem aquecimento no Inverno", "Sem ar condicionado no VerÃ£o"]
+    "answers": ["Sem aquecimento no Inverno", "Sem ar condicionado no Verão"]
   },
   {
     "question": "Prefere ter visão nocturna ou ouvir sons em todas as frequências?",
-    "answers": ["VisÃ£o nocturna", "Ouvir todas as frequÃªncias"]
+    "answers": ["Visão nocturna", "Ouvir todas as frequências"]
   },
   {
     "question": "Ganharia bilhetes para os Jogos Olímpicos de Inverno ou para os de Verão?",
@@ -187,7 +187,7 @@
     "answers": ["Respiração debaixo de água", "Voar pelo ar"]
   },
   {
-    "question": "Quando vai de fÃ©rias, prefere visitar uma grande cidade ou passar tempo na natureza?",
+    "question": "Quando vai de férias, prefere visitar uma grande cidade ou passar tempo na natureza?",
     "answers": ["Grande cidade", "Natureza"]
   },
   {
