@@ -22,7 +22,7 @@ def generate_migration(locale, template_type, output_folder):
         data = file.read()
     tm = Template(data)
     output = tm.render(locale=locale, locale_full=LOCALES_FULL[locale], country=COUNTRIES[locale])
-    timestamp = unix_time_millis(datetime.now())
+    timestamp = unix_time_millis()
     filename = f'{timestamp}_{template_type}-{locale}.js'
     path = PurePath(output_folder, filename)
     with open(path, 'w') as file:
