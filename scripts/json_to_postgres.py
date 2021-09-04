@@ -23,10 +23,6 @@ path = Path(args.path)
 file_base = os.path.basename(path)
 filename = os.path.splitext(file_base)[0]
 
-if args.table:
-    TABLE_NAME = args.table
-else:
-    TABLE_NAME = "app_public." + filename
 
 if args.postgres:
     POSTGRES_URL = args.postgres
@@ -57,7 +53,7 @@ def load_df_to_table(df, table_name, postgres_url):
     df.to_sql(table_name, engine, method=psql_insert_copy, if_exists='append', index=False)
 
 
-def json_to_table(filename):
+def json_to_table(filename, table_name):
 
     df = pd.read_json(filename, orient='records')
     
@@ -69,16 +65,28 @@ def json_to_table(filename):
         if type(df[col][0]) is list:
             df[col] = df[col].apply(set)
 
-    load_df_to_table(df, TABLE_NAME, POSTGRES_URL)
+    load_df_to_table(df, table_name, POSTGRES_URL)
 
 
 if __name__ == "__main__":
     if args.path:
-        json_to_table(args.path)
+        path = Path(args.path)
+        file_base = os.path.basename(path)
+        filename = os.path.splitext(file_base)[0]
+        if args.table:
+            table_name = args.table
+        else:
+            table_name = "app_public." + filename
+        
+        json_to_table(args.path, table_name)
     else:
         for file in listdir('./resources'):
             try:
-                json_to_table(file)
+                path = Path('./resources/' + file)
+                file_base = os.path.basename(path)
+                filename = os.path.splitext(file_base)[0]
+                table_name = "app_public." + filename
+                json_to_table(file, table_name)
             except:
                 print(f"Failed to load {file}")
 
