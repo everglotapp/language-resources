@@ -19,11 +19,6 @@ parser.add_argument("--postgres", type=str,
                     help="postgres Url")
 args = parser.parse_args()
 
-path = Path(args.path)
-file_base = os.path.basename(path)
-filename = os.path.splitext(file_base)[0]
-
-
 if args.postgres:
     POSTGRES_URL = args.postgres
 else:
@@ -56,8 +51,8 @@ def load_df_to_table(df, table_name, postgres_url):
 def json_to_table(filename, table_name):
 
     df = pd.read_json(filename, orient='records')
-    
-    # Set uuid for each row    
+
+    # Set uuid for each row
     df['uuid'] = [uuid.uuid4() for _ in range(len(df.index))]
 
     # If column type in postgres is array, change the column to a set
@@ -77,16 +72,16 @@ if __name__ == "__main__":
             table_name = args.table
         else:
             table_name = "app_public." + filename
-        
+
         json_to_table(args.path, table_name)
     else:
-        for file in listdir('./resources'):
+        for file in listdir('../resources'):
             try:
-                path = Path('./resources/' + file)
+                path = Path('../resources/' + file)
                 file_base = os.path.basename(path)
                 filename = os.path.splitext(file_base)[0]
                 table_name = "app_public." + filename
-                json_to_table(file, table_name)
+                json_to_table(path, table_name)
             except:
                 print(f"Failed to load {file}")
 
