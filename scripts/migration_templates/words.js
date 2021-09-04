@@ -7,7 +7,12 @@ exports.up = (pgm) => {
         { schema: "app_public", name: "words_{{ locale }}" },
         {
             id: "id",
-            uuid: { type: "uuid", notNull: true, unique: true },
+            uuid: {
+                type: "uuid",
+                default: pgm.func("gen_random_uuid()"),
+                notNull: true,
+                unique: true,
+            },
             word: {
                 type: "text",
                 collation: '"{{ locale }}-{{ country }}-x-icu"',
@@ -56,9 +61,23 @@ exports.up = (pgm) => {
         }
     )
     pgm.sql(`GRANT SELECT ON app_public.words_{{ locale }} TO evg_server`)
+    pgm.createIndex(
+        {
+            schema: "app_public",
+            name: "words_{{ locale }}",
+        },
+        "recommended_skill_level_id"
+    )
 }
 
 exports.down = (pgm) => {
+    pgm.dropIndex(
+        {
+            schema: "app_public",
+            name: "words_{{ locale }}",
+        },
+        "recommended_skill_level_id"
+    )
     pgm.sql(`REVOKE SELECT ON app_public.words_{{ locale }} FROM evg_server`)
     pgm.dropPolicy(
         { schema: "app_public", name: "words_{{ locale }}" },

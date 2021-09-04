@@ -7,7 +7,12 @@ exports.up = (pgm) => {
         { schema: "app_public", name: "random_questions_{{ locale }}" },
         {
             id: "id",
-            uuid: { type: "uuid", notNull: true, unique: true },
+            uuid: {
+                type: "uuid",
+                default: pgm.func("gen_random_uuid()"),
+                notNull: true,
+                unique: true,
+            },
             question: {
                 type: "text",
                 collation: '"{{ locale }}-{{ country }}-x-icu"',
@@ -46,11 +51,29 @@ exports.up = (pgm) => {
             using: `true`,
         }
     )
-    pgm.sql(`GRANT SELECT ON app_public.random_questions_{{ locale }} TO evg_server`)
+    pgm.sql(
+        `GRANT SELECT ON app_public.random_questions_{{ locale }} TO evg_server`
+    )
+    pgm.createIndex(
+        {
+            schema: "app_public",
+            name: "random_questions_{{ locale }}",
+        },
+        "recommended_skill_level_id"
+    )
 }
 
 exports.down = (pgm) => {
-    pgm.sql(`REVOKE SELECT ON app_public.random_questions_{{ locale }} FROM evg_server`)
+    pgm.dropIndex(
+        {
+            schema: "app_public",
+            name: "random_questions_{{ locale }}",
+        },
+        "recommended_skill_level_id"
+    )
+    pgm.sql(
+        `REVOKE SELECT ON app_public.random_questions_{{ locale }} FROM evg_server`
+    )
     pgm.dropPolicy(
         { schema: "app_public", name: "random_questions_{{ locale }}" },
         "select_server",
@@ -64,5 +87,8 @@ exports.down = (pgm) => {
             levelSecurity: "DISABLE",
         }
     )
-    pgm.dropTable({ schema: "app_public", name: "random_questions_{{ locale }}" })
+    pgm.dropTable({
+        schema: "app_public",
+        name: "random_questions_{{ locale }}",
+    })
 }

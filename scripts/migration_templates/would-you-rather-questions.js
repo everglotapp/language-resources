@@ -4,13 +4,21 @@ exports.shorthands = undefined
 
 exports.up = (pgm) => {
     pgm.createTable(
-        { schema: "app_public", name: "would_you_rather_questions_{{ locale }}" },
+        {
+            schema: "app_public",
+            name: "would_you_rather_questions_{{ locale }}",
+        },
         {
             id: "id",
-            uuid: { type: "uuid", notNull: true, unique: true },
+            uuid: {
+                type: "uuid",
+                default: pgm.func("gen_random_uuid()"),
+                notNull: true,
+                unique: true,
+            },
             question: {
                 type: "text",
-                collation: '{{ locale }}-{{ country }}-x-icu"',
+                collation: '"{{ locale }}-{{ country }}-x-icu"',
                 notNull: true,
             },
             answers: {
@@ -37,13 +45,19 @@ exports.up = (pgm) => {
         }
     )
     pgm.alterTable(
-        { schema: "app_public", name: "would_you_rather_questions_{{ locale }}" },
+        {
+            schema: "app_public",
+            name: "would_you_rather_questions_{{ locale }}",
+        },
         {
             levelSecurity: "ENABLE",
         }
     )
     pgm.createPolicy(
-        { schema: "app_public", name: "would_you_rather_questions_{{ locale }}" },
+        {
+            schema: "app_public",
+            name: "would_you_rather_questions_{{ locale }}",
+        },
         "select_server",
         {
             command: "SELECT",
@@ -54,21 +68,41 @@ exports.up = (pgm) => {
     pgm.sql(
         `GRANT SELECT ON app_public.would_you_rather_questions_{{ locale }} TO evg_server`
     )
+    pgm.createIndex(
+        {
+            schema: "app_public",
+            name: "would_you_rather_questions_{{ locale }}",
+        },
+        "recommended_skill_level_id"
+    )
 }
 
 exports.down = (pgm) => {
+    pgm.dropIndex(
+        {
+            schema: "app_public",
+            name: "would_you_rather_questions_{{ locale }}",
+        },
+        "recommended_skill_level_id"
+    )
     pgm.sql(
         `REVOKE SELECT ON app_public.would_you_rather_questions_{{ locale }} FROM evg_server`
     )
     pgm.dropPolicy(
-        { schema: "app_public", name: "would_you_rather_questions_{{ locale }}" },
+        {
+            schema: "app_public",
+            name: "would_you_rather_questions_{{ locale }}",
+        },
         "select_server",
         {
             ifExists: false,
         }
     )
     pgm.alterTable(
-        { schema: "app_public", name: "would_you_rather_questions_{{ locale }}" },
+        {
+            schema: "app_public",
+            name: "would_you_rather_questions_{{ locale }}",
+        },
         {
             levelSecurity: "DISABLE",
         }
