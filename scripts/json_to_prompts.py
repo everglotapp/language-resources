@@ -71,23 +71,24 @@ def json_to_dataframe(filename, prompt_type, locale):
 if __name__ == "__main__":
 
     if args.locale:
-        if args.args.type:
+        if args.type:
             filename = args.type + '_' + args.locale + '.json'
             path = PurePath(args.path, filename)
-            df = json_to_dataframe(args.path, PROMPT_TYPES[args.type], args.locale)
+            df = json_to_dataframe(path, PROMPT_TYPES[args.type], args.locale)
             load_df_to_table(df, TABLE_NAME, POSTGRES_URL)
 
         else:
             for file_type in PROMPT_TYPES.keys():
                 filename = file_type + '_' + args.locale + '.json'
                 path = PurePath(args.path, filename)
-                df = json_to_dataframe(args.path, PROMPT_TYPES[file_type], args.locale)
+                df = json_to_dataframe(path, PROMPT_TYPES[file_type], args.locale)
                 load_df_to_table(df, TABLE_NAME, POSTGRES_URL)
     else:
         for locale in LOCALES:
             for file_type in PROMPT_TYPES.keys():
                 filename = file_type + '_' + locale + '.json'
+                print(filename)
                 path = PurePath(args.path, filename)
-                df = json_to_dataframe(args.path, PROMPT_TYPES[file_type], locale)
+                df = json_to_dataframe(path, PROMPT_TYPES[file_type], locale)
                 load_df_to_table(df, TABLE_NAME, POSTGRES_URL)
 
