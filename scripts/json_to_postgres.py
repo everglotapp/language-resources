@@ -6,12 +6,13 @@ import pandas as pd
 import uuid
 import argparse
 from pathlib import Path
+from os import listdir
 
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--path", type=str,
-                    help="Path to json file",
-                    required=True)
+                    help="Path to json file"
+                    )
 parser.add_argument("--table", type=str,
                     help="Table name to load, default app_public.json_file_name")
 parser.add_argument("--postgres", type=str,
@@ -72,5 +73,12 @@ def json_to_table(filename):
 
 
 if __name__ == "__main__":
-    json_to_table(args.path)
+    if args.path:
+        json_to_table(args.path)
+    else:
+        for file in listdir('./resources'):
+            try:
+                json_to_table(file)
+            except:
+                print(f"Failed to load {file}")
 

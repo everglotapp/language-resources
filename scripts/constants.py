@@ -38,3 +38,9 @@ LOCALES_FULL = {
 }
 
 TEMPLATE_TYPE = ['random-questions', 'would-you-rather-questions', 'words']
+
+PROMPT_TYPES = {
+    'random-questions': 'question',
+    'would-you-rather-questions': 'question',
+    'words': 'word',
+}
