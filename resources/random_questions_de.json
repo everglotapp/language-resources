@@ -7,7 +7,7 @@
   },
   { "question": "Was planst du für dieses Wochenende?" },
   {
-    "question": "Was ist dein Lieblingsessen aus der Kultur bzw. dem Land, das die Sprache spricht, die du lernen möchtest?\nWarum?"
+    "question": "Was ist dein Lieblingsessen aus der Kultur bzw. dem Land, das die Sprache spricht, die du lernen möchtest? Warum?"
   },
   {
     "question": "Was isst du typischerweise zum Frühstück? Ist das üblich für dein Land bzw. deine Region?"
@@ -15,26 +15,26 @@
   {
     "question": "Welche Dinge in deinem Zuhause bringen dir die meiste Freude?"
   },
-  { "question": "MIt welcher Aktivität vergeudest du die meiste Zeit?" },
-  { "question": "Welche Haustiere hast du bzw. würdest du gerne haben?" },
-  { "question": "Welche Freizeitaktiviten sind in deiner Stadt üblich?" },
+  { "question": "Mit welcher Aktivität vergeudest du die meiste Zeit?" },
+  { "question": "Welche Haustiere hast du bzw. hättest du gerne?" },
+  { "question": "Welche Freizeitaktivitäten sind in deiner Stadt üblich?" },
   { "question": "Von welchem Trend wünschst du dir, dass er verschwindet?" },
   { "question": "Was ist ein guter Ferienort in deinem Land?" },
   { "question": "Wie funktioniert das Schulsystem in deinem Land?" },
   { "question": "Welchen Sport treibst du am häufigsten?" },
   {
-    "question": "Wie lernst du normalerweise neue Freunde kennen? Wo lernen die Leute in deinem Land bzw. deiner Region \ntypischerweise Freunde kennen? "
+    "question": "Wie lernst du normalerweise neue Freunde kennen? Wo lernen die Leute in deinem Land bzw. deiner Region typischerweise Freunde kennen? "
   },
   {
-    "question": "Ist es schwerer geworden, neue Freunde zu finden, seitdem du nicht mehr in der Schule bist? Warum\nbzw. warum nicht?"
+    "question": "Ist es schwerer geworden, neue Freunde zu finden, seitdem du nicht mehr in der Schule bist? Warum bzw. warum nicht?"
   },
-  { "question": "Was magst du (oder möchtest du) am meisten an der Schule?" },
+  { "question": "Was magst du am meisten an der Schule?" },
   {
-    "question": "Was magst du (oder möchtest du) am wenigsten an der Schule?"
+    "question": "Was magst du am wenigsten an der Schule?"
   },
-  { "question": "Was war dein Traumberuf als Kind?" },
+  { "question": "Was war dein Traumberuf, als du ein Kind warst?" },
   {
-    "question": "Wenn du ein Tier sein könntest, welches Tier wärest du und warum?"
+    "question": "Wenn du ein Tier sein könntest, welches Tier wärst du und warum?"
   },
   {
     "question": "Wenn du ein Unternehmen gründen würdest, welche Art Unternehmen wäre das?"
