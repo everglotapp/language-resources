@@ -1,18 +1,18 @@
 [
   {
-    "question": "Would you rather be surrounded by arrogant people all the time or spend all your around ungrateful people? ",
+    "question": "Would you rather be surrounded by arrogant people all the time or spend all your around ungrateful people?",
     "answers": ["Arrogant people", "Ungrateful people"]
   },
   {
-    "question": "Would you rather be able to speak every human language in the world or talk to all animals? ",
+    "question": "Would you rather be able to speak every human language in the world or talk to all animals?",
     "answers": ["Speak every human language", "Talk to animals"]
   },
   {
-    "question": "Would you rather have to eat everything you touch or have everything you touch (including food) turn into gold? ",
+    "question": "Would you rather have to eat everything you touch or have everything you touch (including food) turn into gold?",
     "answers": ["Eat everything I touch", "Turn everything I touch into gold"]
   },
   {
-    "question": "Would you rather be a cat with human intelligence or a human with the intelligence of a cat? ",
+    "question": "Would you rather be a cat with human intelligence or a human with the intelligence of a cat?",
     "answers": ["Cat with human intelligence", "Human with cat intelligence"]
   },
   {
@@ -36,7 +36,7 @@
     "answers": ["Give up wifi", "Give up the ability to travel"]
   },
   {
-    "question": "Would you rather be rich and ugly or beautiful and poor? ",
+    "question": "Would you rather be rich and ugly or beautiful and poor?",
     "answers": ["Rich and ugly", "Beautiful and poor"]
   },
   {
@@ -48,18 +48,18 @@
     "answers": ["Change traffic lights at will", "Skip every ad "]
   },
   {
-    "question": "Would you rather live a peaceful but boring life or an exciting but dangerous life? ",
+    "question": "Would you rather live a peaceful but boring life or an exciting but dangerous life?",
     "answers": ["Peaceful but boring life", "Exciting but dangerous life"]
   },
   {
-    "question": "Would you rather live a long and unremarkable life or die young but live down in history for a remarkable achievement? ",
+    "question": "Would you rather live a long and unremarkable life or die young but live down in history for a remarkable achievement?",
     "answers": [
       "Long and unremarkable life",
       "Die young but live down in history "
     ]
   },
   {
-    "question": "Would you rather have to live your life over again but not be able to change anything or forsee the future but not be able to change anything? ",
+    "question": "Would you rather have to live your life over again but not be able to change anything or forsee the future but not be able to change anything?",
     "answers": ["Live my life all over again", "Foresee the future"]
   },
   {
@@ -71,7 +71,7 @@
     "answers": ["Win the lottery", "Get the job of my dreams"]
   },
   {
-    "question": "Would you rather be born with 4 arms or born with 4 legs? What would you do with your extra limbs? ",
+    "question": "Would you rather be born with 4 arms or born with 4 legs? What would you do with your extra limbs?",
     "answers": ["Four arms", "Four legs"]
   },
   {
@@ -143,19 +143,19 @@
     "answers": ["Bitcoin", "Tesla"]
   },
   {
-    "question": "Would you rather wake up early or stay up late? Why? ",
+    "question": "Would you rather wake up early or stay up late? Why?",
     "answers": ["Wake up early", "Stay up late"]
   },
   {
-    "question": "Would you rather have photographic memory or perfect pitch? ",
+    "question": "Would you rather have photographic memory or perfect pitch?",
     "answers": ["Photographic memory", "Perfect pitch"]
   },
   {
-    "question": "Would you rather eat cold food in the winter (assuming you have indoor heating) or hot food in the summer (assuming you have air conditioning) ",
+    "question": "Would you rather eat cold food in the winter (assuming you have indoor heating) or hot food in the summer (assuming you have air conditioning)?",
     "answers": ["Cold food in winter", "Not food in summer"]
   },
   {
-    "question": "Would you rather have no heating in the winter or no air conditioning in the summer? Where in the world are you located and what how extreme are the winters and summers in your region? ",
+    "question": "Would you rather have no heating in the winter or no air conditioning in the summer? Where in the world are you located and what how extreme are the winters and summers in your region?",
     "answers": ["No heating in winter", "No air conditioning in summer"]
   },
   {
@@ -163,7 +163,7 @@
     "answers": ["Night-vision", "Hear all frequencies"]
   },
   {
-    "question": "Would you win tickets to the winter olympics or the summer olympics? ",
+    "question": "Would you win tickets to the winter olympics or the summer olympics?",
     "answers": ["Winter olympics", "Summer olympics "]
   },
   {
@@ -171,7 +171,7 @@
     "answers": ["Fix climate change", "New planet for humanity "]
   },
   {
-    "question": "Would you rather be able to breath under water or fly thorugh the air? ",
+    "question": "Would you rather be able to breath under water or fly thorugh the air?",
     "answers": ["Breath under water", "Fly through the air"]
   },
   {
@@ -191,11 +191,11 @@
     "answers": ["Richest person in the world", "Live for 200 years"]
   },
   {
-    "question": "Would you rather be Elon Musk or Tim Cook? ",
+    "question": "Would you rather be Elon Musk or Tim Cook?",
     "answers": ["Elon Musk", "Tim Cook"]
   },
   {
-    "question": "Would you rather be Bill Gates or Mark Zuckerberg? ",
+    "question": "Would you rather be Bill Gates or Mark Zuckerberg?",
     "answers": ["Bill Gates", "Mark Zuckerberg"]
   }
 ]
