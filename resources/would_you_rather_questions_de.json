@@ -25,9 +25,9 @@
     ]
   },
   {
-    "question": "Hättest du lieber die Fähigkeit, die Zukunft vorauszusehen und keine Erinnerung an die Vergangenheit oder eine perfekte Erinnerung an die Vergangenheit, wenn du dann unfähig wärst, neue Erinnerungen zu erzeugen?",
+    "question": "Hättest du lieber die Fähigkeit, die Zukunft vorauszusehen und dafür keine Erinnerung an die Vergangenheit oder eine perfekte Erinnerung an die Vergangenheit, wenn du dann unfähig wärst, neue Erinnerungen zu erzeugen?",
     "answers": [
-      "Die Zukunft vorauszusehen",
+      "Die Zukunft voraussehen können",
       "Eine perfekte Erinnerung an die Vergangenheit"
     ]
   },
@@ -44,10 +44,7 @@
   },
   {
     "question": "Hättest du lieber, dass sich deine Füße in Rollschuhe verwandeln oder dass sich deine Hände in Gabeln verwandeln?",
-    "answers": [
-      "Füße verwandeln sich in Rollschuhe",
-      "Hände verwandeln sich in Gabeln"
-    ]
+    "answers": ["Rollschuhe als Füße", "Gabeln als Hände"]
   },
   {
     "question": "Würdest du lieber auf WLAN verzichten oder darauf, dich außerhalb deiner Stadt bewegen zu können?",
@@ -74,8 +71,8 @@
   {
     "question": "Würdest du lieber ein friedliches aber langweiliges Leben führen oder ein aufregendes aber gefährliches?",
     "answers": [
-      "Ein friedliches aber langweiliges Leben",
-      "Ein aufregendes aber gefährliches Leben"
+      "Ein friedliches, aber langweiliges Leben",
+      "Ein aufregendes, aber gefährliches Leben"
     ]
   },
   {

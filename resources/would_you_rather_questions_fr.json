@@ -1,195 +1,192 @@
 [
   {
-    "question": "Préférez-vous être entouré de personnes arrogantes en permanence ou passer votre temps avec des personnes ingrates ?",
+    "question": "Préférerais-tu être entouré de personnes arrogantes en permanence ou passer ton temps avec des personnes ingrates ?",
     "answers": ["Personnes arrogantes", "Les ingrats"]
   },
   {
-    "question": "Préféreriez-vous être capable de parler toutes les langues humaines du monde ou de parler à tous les animaux ?",
+    "question": "Préférerais-tu être capable de parler toutes les langues humaines du monde ou de parler à tous les animaux ?",
     "answers": ["Parler toutes les langues humaines", "Parler aux animaux"]
   },
   {
-    "question": "Préféreriez-vous devoir manger tout ce que vous touchez ou voir tout ce que vous touchez (y compris la nourriture) se transformer en or ?",
+    "question": "Préférerais-tu devoir manger tout ce que te touche ou voir tout ce que tu touches (y compris la nourriture) se transformer en or ?",
     "answers": [
       "Manger tout ce que je touche",
       "Transformer tout ce que je touche en or"
     ]
   },
   {
-    "question": "Préféreriez-vous être un chat avec une intelligence humaine ou un humain avec l'intelligence d'un chat ?",
+    "question": "Préférerais-tu être un chat avec une intelligence humaine ou un humain avec l'intelligence d'un chat ?",
     "answers": [
       "Un chat doté d'une intelligence humaine",
       "L'homme et l'intelligence du chat"
     ]
   },
   {
-    "question": "Préféreriez-vous avoir le pouvoir de prévoir l'avenir mais ne pas avoir de souvenirs du passé ou avoir une mémoire parfaite du passé mais être incapable de créer de nouveaux souvenirs ?",
+    "question": "Préférerais-tu avoir le pouvoir de prévoir l'avenir mais ne pas avoir de souvenirs du passé ou avoir une mémoire parfaite du passé mais être incapable de créer de nouveaux souvenirs ?",
     "answers": ["Prévoir l'avenir", "Une mémoire parfaite"]
   },
   {
-    "question": "Préféreriez-vous ne jamais pouvoir utiliser un emoji ou ne plus pouvoir prendre de selfie ?",
+    "question": "Préférerais-tu ne jamais pouvoir utiliser un emoji ou ne plus pouvoir prendre de selfie ?",
     "answers": [
       "Ne plus jamais utiliser un emoji",
       "Ne plus jamais prendre de selfie"
     ]
   },
   {
-    "question": "Préféreriez-vous parler couramment toutes les langues ou visiter tous les pays du monde ?",
+    "question": "Préférerais-tu parler couramment toutes les langues ou visiter tous les pays du monde ?",
     "answers": [
       "Parler couramment toutes les langues",
       "Visiter tous les pays du monde"
     ]
   },
   {
-    "question": "Préféreriez-vous que vos pieds se transforment en patins à roulettes ou vos mains en fourchettes ?",
+    "question": "Préférerais-tu que vos pieds se transforment en patins à roulettes ou vos mains en fourchettes ?",
     "answers": [
       "Les pieds se transforment en patins à roulettes",
       "Les mains se transforment en fourches"
     ]
   },
   {
-    "question": "Préféreriez-vous renoncer au wifi ou à la possibilité de voyager en dehors de votre ville ?",
+    "question": "Préférerais-tu renoncer au wifi ou à la possibilité de voyager en dehors de votre ville ?",
     "answers": ["Abandonnez le wifi", "Renoncer à la possibilité de voyager"]
   },
   {
-    "question": "Préféreriez-vous être riche et laid ou beau et pauvre ?",
+    "question": "Préférerais-tu être riche et laid ou beau/belle et pauvre ?",
     "answers": ["Riche et laid", "Belle et pauvre"]
   },
   {
-    "question": "Préféreriez-vous être intelligent et laid ou beau et stupide ?",
+    "question": "Préférerais-tu être intelligent et laid ou beau et stupide ?",
     "answers": ["Intelligent et laid", "Beau et stupide"]
   },
   {
-    "question": "Préféreriez-vous pouvoir changer les feux de circulation à volonté ou sauter toutes les publicités à la télévision et sur le web ?",
+    "question": "Préférerais-tu pouvoir changer les feux de circulation à volonté ou sauter toutes les publicités à la télévision et sur le web ?",
     "answers": [
       "Modifier les feux de circulation à volonté",
       "Sauter toutes les publicités"
     ]
   },
   {
-    "question": "Préféreriez-vous vivre une vie paisible mais ennuyeuse ou une vie excitante mais dangereuse ?",
+    "question": "Préférerais-tu vivre une vie paisible mais ennuyeuse ou une vie excitante mais dangereuse ?",
     "answers": [
       "Une vie paisible mais ennuyeuse",
       "Une vie passionnante mais dangereuse"
     ]
   },
   {
-    "question": "Préféreriez-vous vivre une vie longue et banale ou mourir jeune mais entrer dans l'histoire pour un exploit remarquable ?",
+    "question": "Préférerais-tu vivre une vie longue et banale ou mourir jeune mais entrer dans l'histoire pour un exploit remarquable ?",
     "answers": [
       "Une vie longue et banale",
       "Mourir jeune mais entrer dans l'histoire"
     ]
   },
   {
-    "question": "Préféreriez-vous devoir revivre votre vie sans pouvoir y changer quoi que ce soit, ou bien prévoir l'avenir sans pouvoir y changer quoi que ce soit ?",
+    "question": "Préférerais-tu devoir revivre votre vie sans pouvoir y changer quoi que ce soit, ou bien prévoir l'avenir sans pouvoir y changer quoi que ce soit ?",
     "answers": ["Vivre ma vie à nouveau", "Prévoir l'avenir"]
   },
   {
-    "question": "Préféreriez-vous perdre votre capacité à goûter la nourriture ou perdre votre capacité à parler ?",
+    "question": "Préférerais-tu perdre votre capacité à goûter la nourriture ou perdre votre capacité à parler ?",
     "answers": [
       "Perdre la capacité de goûter les aliments",
       "Perdre la capacité de parler"
     ]
   },
   {
-    "question": "Préférez-vous gagner à la loterie et ne plus jamais avoir à travailler, ou obtenir l'emploi de vos rêves ?",
+    "question": "Préférerais-tu gagner à la loterie et ne plus jamais avoir à travailler, ou obtenir l'emploi de vos rêves ?",
     "answers": ["Gagner à la loterie", "Obtenir le travail de mes rêves"]
   },
   {
-    "question": "Préféreriez-vous naître avec 4 bras ou 4 jambes ? Que feriez-vous avec vos membres supplémentaires ?",
+    "question": "Préférerais-tu naître avec 4 bras ou 4 jambes ? Que ferais avec vos membres supplémentaires ?",
     "answers": ["Quatre bras", "Four legs"]
   },
   {
-    "question": "Préféreriez-vous avoir une bague magique qui vous rendrait invisible quand vous la mettez, ou une machine à remonter le temps ?",
+    "question": "Préférerais-tu avoir une bague magique qui te rendrait invisible quand tu la mets, ou une machine à remonter le temps ?",
     "answers": [
       "Anneau magique qui me rend invisible",
-      "La machine  remonter le temps"
+      "La machine à remonter le temps"
     ]
   },
   {
-    "question": "Préférez-vous épouser quelqu'un que vous aimez ou épouser quelqu'un qui vous aime ?",
-    "answers": [
-      "Ã‰pouser quelqu'un que j'aime",
-      "Ã‰pousez quelqu'un qui m'aime"
-    ]
+    "question": "Préférerais-tu épouser quelqu'un que tu aimes ou épouser quelqu'un qui t'aime ?",
+    "answers": ["Épouser quelqu'un que j'aime", "Épouser quelqu'un qui m'aime"]
   },
   {
-    "question": "préférez-vous être un poète aveugle ou un musicien sourd ?",
-    "answers": ["PoÃ¨te aveugle", "Musicien sourd"]
+    "question": "Préférerais-tu être un poète aveugle ou un musicien sourd ?",
+    "answers": ["Poète aveugle", "Musicien sourd"]
   },
   {
-    "question": "Préféreriez-vous être une célébrité avec de nombreux fans mais vous aliéner tous vos amis et votre famille, ou être apprécié dans votre cercle social personnel mais ne jamais connaître la célébrité ?",
+    "question": "Préférerais-tu être une célébrité avec de nombreux fans mais t'aliéner tous tes amis et ta famille, ou être apprécié dans ton cercle social personnel mais ne jamais connaître la célébrité ?",
     "answers": ["Une célébrité solitaire", "Un papillon social ordinaire"]
   },
   {
-    "question": "Préféreriez-vous naître dans la royauté à une époque pré-moderne/pré-industrielle, ou être une personne ordinaire aujourd'hui ?",
+    "question": "Préférerais-tu naître dans la royauté à une époque pré-moderne/pré-industrielle, ou être une personne ordinaire aujourd'hui ?",
     "answers": ["La royauté pré-moderne", "Le citoyen moderne ordinaire"]
   },
   {
-    "question": "Préféreriez-vous vivre dans un hangar à bateaux ou dans une caravane ?",
+    "question": "Préférerais-tu vivre dans un hangar à bateaux ou dans une caravane ?",
     "answers": ["Hangar à bateaux", "Trailer home"]
   },
   {
-    "question": "Préférez-vous participer à une émission de télé-réalité de survie sur une île déserte ou à une émission de télé-réalité de rencontres ?",
+    "question": "Préférerais-tu participer à une émission de télé-réalité de survie sur une île déserte ou à une émission de télé-réalité de rencontres ?",
     "answers": ["La survie sur une île déserte", "Rencontres / Match-making"]
   },
   {
-    "question": "Préféreriez-vous avoir l'immortalité mais ne plus jamais pouvoir manger ou goûter de nourriture, ou pouvoir manger tout ce que vous voulez (sans conséquences financières ou pour votre santé) mais mourir à 80 ans ?",
+    "question": "Préférerais-tu avoir l'immortalité mais ne plus jamais pouvoir manger ou goûter de nourriture, ou pouvoir manger tout ce que veux (sans conséquences financières ou pour ta santé) mais mourir à 80 ans ?",
     "answers": ["Immortalité", "Manger tout ce que je veux"]
   },
   {
-    "question": "Préféreriez-vous travailler à domicile ou dans un bureau ?",
+    "question": "Préférerais-tu travailler à domicile ou dans un bureau ?",
     "answers": ["Travail à domicile", "Travailler dans un bureau"]
   },
   {
-    "question": "Vous préférez étudier à la bibliothèque ou dans un café ?",
+    "question": "Préfères-tu étudier à la bibliothèque ou dans un café ?",
     "answers": ["Étudier à la bibliothèque", "Étudier dans un café"]
   },
   {
-    "question": "Préféreriez-vous cuisiner à la maison pour le reste de votre vie ou manger au restaurant pour le reste de votre vie ?",
+    "question": "Préférerais-tu cuisiner à la maison pour le reste de votre vie ou manger au restaurant pour le reste de votre vie ?",
     "answers": ["Cuisiner à la maison", "Manger dans un restaurant"]
   },
   {
-    "question": "Préféreriez-vous prendre des vacances d'un mois au printemps ou à l'automne ?",
+    "question": "Préférerais-tu prendre des vacances d'un mois au printemps ou à l'automne ?",
     "answers": ["Printemps", "Cas"]
   },
   {
-    "question": "Préféreriez-vous prendre des vacances d'un mois en hiver ou en été ?",
+    "question": "Préférerais-tu prendre des vacances d'un mois en hiver ou en été ?",
     "answers": ["Hiver", "Été"]
   },
   {
-    "question": "Préféreriez-vous être un athlète célèbre ou une star de cinéma célèbre ?",
+    "question": "Préférerais-tu être un athlète célèbre ou une star de cinéma célèbre ?",
     "answers": ["Athlète", "Star du cinéma"]
   },
   {
-    "question": "Préféreriez-vous être un politicien célèbre ou un homme d'affaires célèbre ?",
+    "question": "Préférerais-tu être un politicien célèbre ou un homme d'affaires célèbre ?",
     "answers": ["Politicien célèbre", "Célèbre homme d'affaires"]
   },
   {
-    "question": "Préférez-vous créer votre propre entreprise ou reprendre et diriger une entreprise déjà établie ?",
+    "question": "Préférerais-tu créer votre propre entreprise ou reprendre et diriger une entreprise déjà établie ?",
     "answers": ["Créer ma propre entreprise", "Diriger une entreprise établie"]
   },
   {
-    "question": "Préféreriez-vous avoir 1 million d'euros détenus en bitcoins ou en actions Tesla ?",
+    "question": "Préférerais-tu avoir 1 million d'euros détenus en bitcoins ou en actions Tesla ?",
     "answers": ["Bitcoin", "Tesla"]
   },
   {
-    "question": "Préféreriez-vous vous réveiller tôt ou vous coucher tard ? Pourquoi ?",
-    "answers": ["Se réveiller tôt", "Rester debout tard"]
+    "question": "Préférerais-tu te réveiller tôt ou te coucher tard ? Pourquoi ?",
+    "answers": ["Me réveiller tôt", "Rester debout tard"]
   },
   {
-    "question": "Préféreriez-vous avoir une mémoire photographique ou une oreille parfaite ?",
+    "question": "Préférerais-tu avoir une mémoire photographique ou une oreille parfaite ?",
     "answers": ["Mémoire photographique", "Le ton parfait"]
   },
   {
-    "question": "Préféreriez-vous manger des aliments froids en hiver (en supposant que vous ayez un chauffage intérieur) ou des aliments chauds en été (en supposant que vous ayez la climatisation) ?",
+    "question": "Préférerais-tu manger des aliments froids en hiver (en supposant que tu aies un chauffage intérieur) ou des aliments chauds en été (en supposant que tu aies la climatisation) ?",
     "answers": ["Nourriture froide en hiver", "Pas de nourriture en été"]
   },
   {
-    "question": "Préféreriez-vous ne pas avoir de chauffage en hiver ou pas de climatisation en été ? Où êtes-vous situé dans le monde et quelles sont les extrêmes des hivers et des étés dans votre région ?",
+    "question": "Préférerais-tu ne pas avoir de chauffage en hiver ou pas de climatisation en été ? Où ès-tu situé(e) dans le monde et quelles sont les extrêmes des hivers et des étés dans votre région ?",
     "answers": ["Pas de chauffage en hiver", "Pas de climatisation en été"]
   },
   {
-    "question": "Préféreriez-vous avoir une vision nocturne ou entendre les sons à toutes les fréquences ?",
+    "question": "Préférerais-tu avoir une vision nocturne ou entendre les sons à toutes les fréquences ?",
     "answers": ["Vision nocturne", "Entendre toutes les fréquences"]
   },
   {
@@ -197,38 +194,38 @@
     "answers": ["Jeux olympiques d'hiver", "Jeux olympiques d'été"]
   },
   {
-    "question": "Préféreriez-vous être en mesure de résoudre le problème du changement climatique ou de créer un nouvel habitat pour l'humanité sur une nouvelle planète semblable à la Terre ?",
+    "question": "Préférerais-tu être en mesure de résoudre le problème du changement climatique ou de créer un nouvel habitat pour l'humanité sur une nouvelle planète semblable à la Terre ?",
     "answers": [
       "Régler le problème du changement climatique",
       "Une nouvelle planète pour l'humanité"
     ]
   },
   {
-    "question": "Préféreriez-vous pouvoir respirer sous l'eau ou voler dans les airs ?",
+    "question": "Préférerais-tu pouvoir respirer sous l'eau ou voler dans les airs ?",
     "answers": ["Respiration sous l'eau", "Voler dans les airs"]
   },
   {
-    "question": "Lorsque vous partez en vacances, préférez-vous visiter une grande ville ou passer du temps dans la nature ?",
+    "question": "Lorsque tu pars en vacances, préférerais-tu visiter une grande ville ou passer du temps dans la nature ?",
     "answers": ["Grande ville", "Nature"]
   },
   {
-    "question": "Si vous pouviez voyager dans le temps, préféreriez-vous voyager dans le futur ou dans le passé ?",
+    "question": "Si tu pouvais voyager dans le temps, préférerais-tu voyager dans le futur ou dans le passé ?",
     "answers": ["Voyage vers le futur", "Voyage dans le passé"]
   },
   {
-    "question": "Préféreriez-vous avoir beaucoup de temps libre mais peu d'argent ou beaucoup d'argent mais peu de temps libre ?",
+    "question": "Préférerais-tu avoir beaucoup de temps libre mais peu d'argent ou beaucoup d'argent mais peu de temps libre ?",
     "answers": ["Beaucoup de temps libre", "Beaucoup d'argent"]
   },
   {
-    "question": "Préféreriez-vous vivre pendant 100 ans en étant la personne la plus riche du monde ou vivre pendant 200 ans avec votre revenu actuel ?",
+    "question": "Préférerais-tu vivre pendant 100 ans en étant la personne la plus riche du monde ou vivre pendant 200 ans avec votre revenu actuel ?",
     "answers": ["La personne la plus riche du monde", "Vivre pendant 200 ans"]
   },
   {
-    "question": "Préféreriez-vous être Elon Musk ou Tim Cook ?",
+    "question": "Préférerais-tu être Elon Musk ou Tim Cook ?",
     "answers": ["Elon Musk", "Tim Cook"]
   },
   {
-    "question": "Préféreriez-vous être Bill Gates ou Mark Zuckerberg ?",
+    "question": "Préférerais-tu être Bill Gates ou Mark Zuckerberg ?",
     "answers": ["Bill Gates", "Mark Zuckerberg"]
   }
 ]

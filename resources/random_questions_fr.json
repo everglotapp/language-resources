@@ -1,39 +1,39 @@
 [
-  { "question": "Quelle est votre chaîne Youtube préférée et pourquoi ?" },
+  { "question": "Quelle est ta chaîne Youtube préférée et pourquoi ?" },
   {
     "question": "Quelle est une bonne activité à faire quand on est stressé ?"
   },
-  { "question": "Parlez-nous d'un sujet qui vous passionne." },
-  { "question": "Avec quels trois mots vos amis vous décriraient-ils ?" },
-  { "question": "Que comptez-vous faire ce week-end ?" },
+  { "question": "Parle-nous d'un sujet qui te passionne." },
+  { "question": "Avec quels trois mots tes amis te décriraient-ils ?" },
+  { "question": "Que comptes-tu faire ce week-end ?" },
   {
-    "question": "Quel est votre plat traditionnel préféré dans une culture ou un pays qui parle votre langue cible ? Pourquoi ?"
+    "question": "Quel est ton plat traditionnel préféré dans une culture ou un pays qui parle ta langue cible ? Pourquoi ?"
   },
   {
-    "question": "Que mangez-vous généralement au petit-déjeuner ? Est-ce courant dans votre pays / région ?"
+    "question": "Que manges-tu généralement au petit-déjeuner ? Est-ce courant dans ton pays / région ?"
   },
   {
-    "question": "Quel est l'objet de votre maison qui suscite le plus de joie ?"
+    "question": "Quel est l'objet de ta maison qui suscite le plus de joie ?"
   },
   {
-    "question": "Quelle activité de procrastination perdez-vous le plus de temps à faire ?"
+    "question": "Quelle activité de procrastination perds-tu le plus de temps à faire ?"
   },
   {
-    "question": "Quels sont les animaux de compagnie que vous avez ou que vous aimeriez avoir ?"
+    "question": "Quels sont les animaux de compagnie que tu as ou que tu aimerais avoir ?"
   },
   {
-    "question": "Quelles sont les activités de loisirs les plus populaires dans votre ville ?"
+    "question": "Quelles sont les activités de loisirs les plus populaires dans ta ville ?"
   },
   {
-    "question": "Quelle est une tendance populaire que vous aimeriez voir disparaître ?"
+    "question": "Quelle est une tendance populaire que tu aimerais voir disparaître ?"
   },
-  { "question": "Quel est un bon lieu de vacances dans votre pays ?" },
-  { "question": "Comment est le système éducatif dans votre pays ?" },
+  { "question": "Quel est un bon lieu de vacances dans ton pays ?" },
+  { "question": "Comment est le système éducatif dans ton pays ?" },
   {
-    "question": "Quels sports ou exercices physiques pratiquez-vous le plus souvent ? Pourquoi ?"
+    "question": "Quels sports ou exercices physiques pratiques-tu le plus souvent ? Pourquoi ?"
   },
   {
-    "question": "Comment rencontrez-vous habituellement de nouveaux amis ? Où les habitants de votre pays/région rencontrent-ils habituellement leurs amis ?"
+    "question": "Comment rencontres-tu habituellement de nouveaux amis ? Où les habitants de ton pays / ta région rencontrent-ils habituellement leurs amis ?"
   },
   {
     "question": "Est-il plus difficile de se faire de nouveaux amis quand on n'est plus à l'école ? Pourquoi ou pourquoi pas ?"
@@ -41,28 +41,28 @@
   { "question": "Qu'est-ce qui te plaît (ou te plaisait) le plus à l'école ?" },
   { "question": "Qu'est-ce que tu aimes (ou aimais) le plus à l'école ?" },
   {
-    "question": "Quand vous étiez enfant, quel était le métier de vos rêves ?"
+    "question": "Quand tu étais enfant, quel était le métier de tes rêves ?"
   },
   {
-    "question": "Si vous deviez vous transformer en un animal, quel animal seriez-vous et pourquoi ?"
+    "question": "Si tu devais te transformer en un animal, quel animal est-ce que tu serais et pourquoi ?"
   },
   {
-    "question": "Si vous lanciez une entreprise, quel genre d'entreprise serait-ce ?"
+    "question": "Si tu lanciez une entreprise, quel genre d'entreprise serait-ce ?"
   },
   {
-    "question": "Quel est votre film dans votre langue cible que vous recommanderiez à d'autres ? Pourquoi ?"
+    "question": "Quel est ton film dans ta langue cible que tu recommanderais à d'autres ? Pourquoi ?"
   },
   {
-    "question": "Recommandez un film dans votre langue maternelle. Pourquoi ce film est-il bon ?"
+    "question": "Recommande un film dans ta langue maternelle. Pourquoi ce film est-il bon ?"
   },
-  { "question": "Quel est votre conte de fées préféré ?" },
+  { "question": "Quel est ton conte de fées préféré ?" },
   {
-    "question": "Quel est le conte de fées le plus étrange de votre pays / culture ?"
-  },
-  {
-    "question": "Êtes-vous un collectionneur ? Que collectionnez-vous ? Si vous pouviez collectionner quelque chose (art, timbres, antiquités, etc.), que collectionneriez-vous ?"
+    "question": "Quel est le conte de fées le plus étrange de ton pays / ta culture ?"
   },
   {
-    "question": "Si vous pouviez devenir le protagoniste d'un conte de fées, quel serait ce conte de fées ?"
+    "question": "Es-tu un collectionneur ? Que collectionnes-tu ? Si tu pouvais collectionner quelque chose (art, timbres, antiquités, etc.), que collectionnerais-tu ?"
+  },
+  {
+    "question": "Si tu pouvais devenir le protagoniste d'un conte de fées, quel serait ce conte de fées ?"
   }
 ]
