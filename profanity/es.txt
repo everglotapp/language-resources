@@ -7,11 +7,11 @@ ano
 arrebatar
 asesinato
 asesino
-asesino
+asesinos
 asqueroso
 atornillar
 bastardo
-bastardo
+bastardos
 bestial
 bestialidad
 bolas
@@ -21,6 +21,7 @@ bombardeo
 brida
 buceta
 cabron
+cabrones
 cagadas
 cagado
 cagando
